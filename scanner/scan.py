@@ -32,7 +32,7 @@ def lade_config() -> dict:
 def suche(begriff: str, cfg: dict, session: requests.Session) -> list[dict]:
     region = cfg["region"]
     treffer: list[dict] = []
-    for seite in range(1, 4):  # max. 300 Treffer pro Begriff
+    for seite in range(1, 6):  # max. 500 Treffer pro Begriff
         params = {
             "was": begriff,
             "wo": region["wo"],
@@ -109,6 +109,7 @@ def normalisiere(a: dict, begriff: str, cfg: dict) -> dict | None:
         "gehalt": gehalt,
         "befristung": a.get("vertragsdauer"),
         "score": score,
+        "erweitert": (zahl(a.get("entfernung", lok.get("entfernung"))) or 0) > cfg["region"].get("kernregion_km", 50),
         "link_jobboerse": DETAIL_URL.format(refnr=refnr),
         "link_extern": a.get("externeUrl"),
         "suchbegriffe": [begriff],
@@ -159,16 +160,16 @@ def main() -> None:
             gesehen[j["id"]] = j["erstmals_gesehen"]
             neue.append(j)
 
-    sortiert = sorted(jobs.values(), key=lambda j: (-j["score"], j["entfernung_km"] or 999))
+    sortiert = sorted(jobs.values(), key=lambda j: (j["erweitert"], -j["score"], j["entfernung_km"] or 999))
     alt_pfad.write_text(json.dumps(sortiert, ensure_ascii=False, indent=1))
     # gesehen.json klein halten: nur letzte 120 Tage
     grenze = (dt.date.today() - dt.timedelta(days=120)).isoformat()
     gesehen = {k: v for k, v in gesehen.items() if v >= grenze}
     gesehen_pfad.write_text(json.dumps(gesehen, ensure_ascii=False, indent=0, sort_keys=True))
 
-    neue.sort(key=lambda j: (-j["score"], j["entfernung_km"] or 999))
+    neue.sort(key=lambda j: (j["erweitert"], -j["score"], j["entfernung_km"] or 999))
     (DATA / "neu" / f"{heute}.md").write_text(tabelle(neue, f"Neue Stellen am {heute}"), encoding="utf-8")
-    schreibe_readme(sortiert[:60], len(sortiert), len(neue), heute)
+    schreibe_readme([j for j in sortiert if not j["erweitert"]][:60], len(sortiert), len(neue), heute)
     print(f"Fertig: {len(sortiert)} passende Stellen, davon {len(neue)} neu.")
 
 

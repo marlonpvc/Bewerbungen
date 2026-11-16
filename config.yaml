@@ -2,7 +2,8 @@
 
 region:
   wo: "75417 Mühlacker"   # Mittelpunkt der Umkreissuche
-  umkreis_km: 50          # deckt Pforzheim, Stuttgart, Karlsruhe, Heilbronn, Bruchsal ab
+  umkreis_km: 100         # Suchradius; Kernregion siehe unten
+  kernregion_km: 50       # Pforzheim, Stuttgart, Karlsruhe, Heilbronn, Bruchsal; weiter weg = "erweitert"
   veroeffentlicht_seit_tagen: 14
 
 # Jeder Begriff ist eine eigene Suche bei der Jobbörse der Bundesagentur für Arbeit

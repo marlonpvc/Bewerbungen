@@ -1,6 +1,6 @@
 # Bewerbungen – automatischer Job-Scanner
 
-Ein kleiner Workflow, der jeden Morgen passende Einstiegsstellen im Raum Mühlacker / Pforzheim / Stuttgart / Karlsruhe / Heilbronn findet.
+Ein kleiner Workflow, der jeden Morgen passende Einstiegsstellen im Raum Mühlacker / Pforzheim / Stuttgart / Karlsruhe / Heilbronn findet (Kernregion 50 km, erweitert bis 100 km).
 
 **So funktioniert es**
 
