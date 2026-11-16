@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+# Keine persönlichen Unterlagen in dieses Repo:
+*.pdf
+*.docx
+*.xlsx

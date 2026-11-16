@@ -1,0 +1,110 @@
+# Suchprofil für den Job-Scanner. Anpassen und committen – der nächste Lauf nutzt es.
+
+region:
+  wo: "75417 Mühlacker"   # Mittelpunkt der Umkreissuche
+  umkreis_km: 50          # deckt Pforzheim, Stuttgart, Karlsruhe, Heilbronn, Bruchsal ab
+  veroeffentlicht_seit_tagen: 14
+
+# Jeder Begriff ist eine eigene Suche bei der Jobbörse der Bundesagentur für Arbeit
+suchbegriffe:
+  - Junior Consultant
+  - Consultant Digitalisierung
+  - IT Consultant
+  - Prozessberater
+  - Prozessmanager
+  - Prozessautomatisierung
+  - Power Platform
+  - Power Automate
+  - KI Consultant
+  - Künstliche Intelligenz Prozesse
+  - Business Analyst
+  - Digitalisierungsmanager
+  - Projektmanager Digitalisierung
+  - Junior Projektmanager
+  - PMO
+  - Release Manager
+  - Testmanager
+  - Trainee
+  - Absolvent Wirtschaftsingenieur
+  - Wirtschaftsingenieur
+  - Supply Chain
+  - Logistikplaner
+  - Lean Management
+  - ERP Consultant
+  - Inhouse Consultant
+  - Innovationsmanager
+
+# Stellen mit diesen Wörtern im Titel werden verworfen
+ausschluss:
+  - senior
+  - lead
+  - head of
+  - principal
+  - teamleit
+  - leiter
+  - leitung
+  - director
+  - werkstudent
+  - working student
+  - praktik
+  - internship
+  - ausbildung
+  - azubi
+  - duales studium
+  - dualer student
+  - abschlussarbeit
+  - masterarbeit
+  - bachelorarbeit
+  - thesis
+  - minijob
+  - aushilfe
+  - fahrer
+  - lager
+  - kommissionier
+  - verkäufer
+  - pflege
+  - erzieher
+  - elektroniker
+  - mechatroniker
+  - schweißer
+  - sap                  # keine SAP-Erfahrung
+
+# Punkte für Wörter im Titel (Groß-/Kleinschreibung egal). Score = Summe, max. 10
+punkte:
+  junior: 3
+  trainee: 3
+  absolvent: 3
+  berufseinsteiger: 3
+  einsteiger: 2
+  graduate: 3
+  consultant: 2
+  berater: 2
+  beratung: 1
+  digitalisierung: 2
+  digital: 1
+  automatisierung: 2
+  automation: 2
+  power platform: 3
+  power automate: 3
+  low-code: 2
+  low code: 2
+  ki: 2
+  " ai ": 2
+  künstliche intelligenz: 2
+  prozess: 2
+  process: 2
+  business analyst: 2
+  projektmanag: 2
+  project manag: 2
+  pmo: 2
+  release: 2
+  ramp-up: 2
+  test: 1
+  supply chain: 2
+  logistik: 1
+  lean: 1
+  erp: 1
+  wirtschaftsingenieur: 2
+  innovation: 1
+  catena: 3
+  automotive: 1

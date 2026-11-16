@@ -1,0 +1,37 @@
+name: Jobsuche
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # täglich ca. 6:17 Uhr (Winterzeit) / 7:17 Uhr (Sommerzeit)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jobsuche
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python scanner/scan.py
+      - name: Ergebnisse committen
+        run: |
+          git config user.name "jobsuche-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data README.md
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen"
+          else
+            git commit -m "Jobsuche $(date +%F)"
+            git push
+          fi
