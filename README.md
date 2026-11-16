@@ -14,7 +14,7 @@ Suchprofil ändern: `config.yaml` bearbeiten und committen.
 Tech: Python, requests, GitHub Actions, Bundesagentur-für-Arbeit-Jobsuche-API, Claude.
 
 <!-- JOBS:START -->
-_Stand 2026-11-16: 109 passende Stellen, 109 neu seit dem letzten Lauf._
+_Stand 2026-11-16: 189 passende Stellen, 80 neu seit dem letzten Lauf._
 
 ## Top-Treffer
 
@@ -37,6 +37,8 @@ _Stand 2026-11-16: 109 passende Stellen, 109 neu seit dem letzten Lauf._
 | 5 | [Projektmanager (m/w/d) Logistik & Supply Chain](https://www.arbeitsagentur.de/jobsuche/jobdetail/15006-k40180.6293-S) | prognum Automotive GmbH | 76131 Karlsruhe, Baden | 32 | 2026-11-16 |
 | 5 | [(Junior) Project Manager (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-53153-YF-S) | SoftProject GmbH | 76275 Ettlingen | 33 | 2026-11-09 |
 | 5 | [Junior Consultant HR Dokumentenmanagement (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-521218_JB5297886-S) | FERCHAU GmbH Niederlassung Heilbronn | 74172 Neckarsulm | 40 | 2026-11-13 |
+| 5 | [IT-Projektmanager - Digitalisierung (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996079002-S) | DIS AG Germany | 69124 Heidelberg, Neckar | 50 | 2026-11-12 |
+| 5 | [Technischer Fachplaner / Projektmanager Events Junior (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-53252-YF-S) | United Network Development GmbH & Co. KG | 69124 Heidelberg, Neckar | 50 | 2026-11-09 |
 | 4 | [Software Developer (all genders) Prozessautomatisierung & KI](https://www.arbeitsagentur.de/jobsuche/jobdetail/17700-0068499277-S) | Almato AG | 70174 Stuttgart | 30 | 2026-11-02 |
 | 4 | [Data & AI Business Analyst Lieferantenregress (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-901595/1_6637CS-S) | Hays Professional Solutions GmbH Standort Stuttgart | Stuttgart | 30 | 2026-11-16 |
 | 4 | [Data & AI Business Analyst Lieferantenregress (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12634-BB-647173-7878-1953-S) | Akkodis Germany Tech Experts GmbH | 70173 Stuttgart | 30 | 2026-11-13 |
@@ -80,6 +82,4 @@ _Stand 2026-11-16: 109 passende Stellen, 109 neu seit dem letzten Lauf._
 | 2 | [Consultant Datenschutz als Volljurist (m/w/d), ab sofort in HH, Berlin, Köln, Stuttgart, München](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003994242-S) | intersoft consulting services AG | 70173 Stuttgart | 30 | 2026-11-10 |
 | 2 | [Projektleiter / Prozessberater (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208627692-S) | The Quality Group Systemberatung GmbH | Stuttgart | 30 | 2026-11-11 |
 | 2 | [Business Analyst - Security Operations (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003952592-S) | emagine GmbH | Stuttgart | 30 | 2026-11-03 |
-| 2 | [Business Analyst Data Intelligence Platforms (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003952942-S) | emagine GmbH | 70173 Stuttgart | 30 | 2026-11-03 |
-| 2 | [IT-Business Analyst (m/w/d) - Kapitalmarkt-Plattform](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996071347-S) | LBBW | 70173 Stuttgart | 30 | 2026-11-12 |
 <!-- JOBS:END -->

@@ -11,6 +11,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 8,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996081557-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -30,6 +31,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 7,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-266416-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -51,6 +53,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 7,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR302112_1479CS-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -70,6 +73,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 6,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996078911-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -89,6 +93,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 6,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1650996-1-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -108,6 +113,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 6,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996060662-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -127,6 +133,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 6,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-ca6be18691309814-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -146,6 +153,7 @@
   "gehalt": "36.000–50.400 €",
   "befristung": "UNBEFRISTET",
   "score": 5,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004012145-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -167,6 +175,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 5,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996071925-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -186,6 +195,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 5,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-270627-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -206,6 +216,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 5,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-2c2411b3_JB5297272-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -225,6 +236,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 5,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1653792-1-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -244,6 +256,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 5,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15006-k40180.6293-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -263,6 +276,7 @@
   "gehalt": "45.000.0–55.000.0 €",
   "befristung": "KEINE_ANGABE",
   "score": 5,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-53153-YF-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -282,11 +296,52 @@
   "gehalt": "55.000.0–65.000.0 €",
   "befristung": "KEINE_ANGABE",
   "score": 5,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-521218_JB5297886-S",
   "link_extern": null,
   "suchbegriffe": [
    "Junior Consultant",
    "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996079002-S",
+  "titel": "IT-Projektmanager - Digitalisierung (m/w/d)",
+  "firma": "DIS AG Germany",
+  "ort": "69124 Heidelberg, Neckar",
+  "entfernung_km": 50,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "IT-Projektleiter/in (Weiterbildung/Ausbildung)",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 5,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996079002-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Projektmanager Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12117-YF-53252-YF-S",
+  "titel": "Technischer Fachplaner / Projektmanager Events Junior (m/w/d)",
+  "firma": "United Network Development GmbH & Co. KG",
+  "ort": "69124 Heidelberg, Neckar",
+  "entfernung_km": 50,
+  "veroeffentlicht": "2026-11-09",
+  "eintritt": "2026-11-09",
+  "beruf": "Projektleiter/in / Projektmanager/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 5,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-53252-YF-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Projektmanager"
   ],
   "erstmals_gesehen": "2026-11-16"
  },
@@ -302,6 +357,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 4,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17700-0068499277-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -321,6 +377,7 @@
   "gehalt": null,
   "befristung": "BEFRISTET",
   "score": 4,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-901595/1_6637CS-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -340,6 +397,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 4,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12634-BB-647173-7878-1953-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -359,6 +417,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 4,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-272011-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -378,6 +437,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 4,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-285068-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -397,6 +457,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 4,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1649549-1-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -417,6 +478,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 4,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1651470-1-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -436,6 +498,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 4,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15307-1594-1804056-0-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -456,6 +519,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12781-16425445-KAL-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -475,6 +539,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14456-k11173.28924-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -495,6 +560,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208617107-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -514,6 +580,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007661770-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -533,6 +600,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-273079-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -553,6 +621,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11937-35548_59967-1-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -572,6 +641,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-182585-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -591,6 +661,7 @@
   "gehalt": "44.844.0–73.931.0 €",
   "befristung": "KEINE_ANGABE",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-54374-YF-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -610,6 +681,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19022-v9imvknamo-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -629,6 +701,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15006-k40180.6292-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -648,6 +721,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003969033-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -667,6 +741,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-281696-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -686,6 +761,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15719-44570091-1112-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -705,6 +781,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12814-13308105-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -724,6 +801,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12814-13308104-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -744,6 +822,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11937-35700_60034-1-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -763,6 +842,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 3,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11937-35379_59894-1-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -782,6 +862,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-53319-YF-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -801,6 +882,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004015504-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -820,6 +902,7 @@
   "gehalt": "40.000–54.000 €",
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004012200-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -840,6 +923,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996062436-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -859,6 +943,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996079814-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -878,6 +963,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-275786-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -897,6 +983,7 @@
   "gehalt": "55.000.0–70.000.0 €",
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-484348_JB5297442-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -916,6 +1003,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3062801794783601-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -935,6 +1023,7 @@
   "gehalt": "85.000.0–95.000.0 €",
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-508540_JB5299621-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -954,6 +1043,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-274066131126-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -975,6 +1065,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-266149111126-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -995,6 +1086,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-273774091126-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1014,6 +1106,7 @@
   "gehalt": "60.000.0–68.000.0 €",
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-CDYB1L3YXOMZP960-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1034,6 +1127,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-280183-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1053,6 +1147,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-266419-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1073,6 +1168,7 @@
   "gehalt": "55.000–65.000 €",
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003994242-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1092,6 +1188,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208627692-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1111,6 +1208,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003952592-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1130,6 +1228,7 @@
   "gehalt": "90.000–100.000 €",
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003952942-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1149,6 +1248,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996071347-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1168,6 +1268,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-287973-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1187,6 +1288,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-287445-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1206,6 +1308,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-273862-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1225,6 +1328,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-271172-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1244,6 +1348,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996072918-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1263,6 +1368,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003967052-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1282,6 +1388,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996079612-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1301,6 +1408,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2916701794438001-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1320,6 +1428,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2835541794438001-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1339,6 +1448,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2914601794438001-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1358,6 +1468,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2914731794438001-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1377,6 +1488,7 @@
   "gehalt": "50.000.0–68.500.0 €",
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-486649_JB5293767-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1396,6 +1508,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3079521793833201-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1417,6 +1530,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44549549-113-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1438,6 +1552,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-2809811793919601-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1458,6 +1573,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3082371793833201-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1478,6 +1594,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3084091794178801-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1498,6 +1615,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR307257_5973CS-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1517,6 +1635,7 @@
   "gehalt": "70.000.0–78.000.0 €",
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-XNIXGSO2NZN8ARPF-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1536,6 +1655,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-147094-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1555,6 +1675,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4993702130-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1574,6 +1695,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-21f3e6c6742e27f3-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1593,6 +1715,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003964429-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1612,6 +1735,7 @@
   "gehalt": "50.000.0–70.000.0 €",
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-8d72bd5119103496-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1631,6 +1755,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996648809-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1650,6 +1775,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17672-0068594406-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1669,6 +1795,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-REG-44725-RJA-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1688,6 +1815,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5000553652-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1707,6 +1835,7 @@
   "gehalt": null,
   "befristung": "BEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003952758-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1726,6 +1855,7 @@
   "gehalt": "44.000.0–47.000.0 €",
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003998381-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1745,6 +1875,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44566736-1110-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1764,6 +1895,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44557512-116-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1784,6 +1916,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-c9c03919eca68335-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1803,6 +1936,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208638477-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1824,6 +1958,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003965459-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1843,6 +1978,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208581206-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1862,6 +1998,7 @@
   "gehalt": "34.26–38.07 €",
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003956900-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1882,6 +2019,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996075313-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1901,10 +2039,31 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 2,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-272247-S",
   "link_extern": null,
   "suchbegriffe": [
    "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996082450-S",
+  "titel": "DevOps Consultant (m/w/d)",
+  "firma": "DIS AG Germany",
+  "ort": "69124 Heidelberg, Neckar",
+  "entfernung_km": 50,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "IT-Berater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996082450-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
   ],
   "erstmals_gesehen": "2026-11-16"
  },
@@ -1920,6 +2079,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 1,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-51913-YF-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1939,6 +2099,7 @@
   "gehalt": null,
   "befristung": "BEFRISTET",
   "score": 1,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003992608-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1958,6 +2119,7 @@
   "gehalt": "60.000.0–80.000.0 €",
   "befristung": "KEINE_ANGABE",
   "score": 1,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-485155_JB5293690-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1978,6 +2140,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 1,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-170237-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -1997,6 +2160,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 1,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15006-k40180.6294-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -2016,6 +2180,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 1,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/21008-2375767-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -2035,6 +2200,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 1,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996079145-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -2054,6 +2220,7 @@
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
   "score": 1,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3091301793919600-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -2073,6 +2240,7 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 1,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003998164-S",
   "link_extern": null,
   "suchbegriffe": [
@@ -2092,11 +2260,1575 @@
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 1,
+  "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1650634-1-S",
   "link_extern": null,
   "suchbegriffe": [
    "Prozessautomatisierung",
    "Künstliche Intelligenz Prozesse"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003999101-S",
+  "titel": "Junior Projektmanager*in Quality & PMO",
+  "firma": "GP Joule GmbH",
+  "ort": "73312 Geislingen an der Steige",
+  "entfernung_km": 82,
+  "veroeffentlicht": "2026-11-11",
+  "eintritt": "2026-11-11",
+  "beruf": "Elektrotechnikermeister/in/Bachelor Professional im Elektrotechniker-Handwerk",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 7,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003999101-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Projektmanager",
+   "PMO"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003974513-S",
+  "titel": "Junior Sales Manager (Trainee) (m/w/d)",
+  "firma": "Constaff GmbH",
+  "ort": "69115 Heidelberg, Neckar",
+  "entfernung_km": 53,
+  "veroeffentlicht": "2026-11-06",
+  "eintritt": "2027-02-01",
+  "beruf": "Sales-Manager/in",
+  "gehalt": "31.200.0–36.000.0 €",
+  "befristung": "UNBEFRISTET",
+  "score": 6,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003974513-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Trainee"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "14774-BB-566510-12683-653-S",
+  "titel": "Junior Store Manager (m/w/d), Trainee",
+  "firma": "Deichmann SE",
+  "ort": "78727 Oberndorf am Neckar",
+  "entfernung_km": 75,
+  "veroeffentlicht": "2026-11-10",
+  "eintritt": "2026-11-10",
+  "beruf": "Filialleiter/in, Verkaufsstellenleiter/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 6,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14774-BB-566510-12683-653-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Trainee"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "16818-100707313-S",
+  "titel": "Salesforce Consultant Trainee (m/w/d)",
+  "firma": "cbs Corporate Business Solutions",
+  "ort": "69115 Heidelberg, Neckar",
+  "entfernung_km": 53,
+  "veroeffentlicht": "2026-11-10",
+  "eintritt": "2026-12-10",
+  "beruf": "IT-Compliance-Consultant",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 5,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16818-100707313-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant",
+   "Trainee"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996082047-S",
+  "titel": "Junior IT-Security Consultant (m/w/d)",
+  "firma": "DIS AG Germany",
+  "ort": "68167 Mannheim",
+  "entfernung_km": 67,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "Cyber-Security-Consultant",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 5,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996082047-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996074853-S",
+  "titel": "IT-Projektmanager- Digitalisierung (m/w/d)",
+  "firma": "DIS AG Germany",
+  "ort": "67059 Ludwigshafen am Rhein",
+  "entfernung_km": 67,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "IT-Projektleiter/in (Weiterbildung/Ausbildung)",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 5,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996074853-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Projektmanager Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003969913-S",
+  "titel": "Trainee Data Analytics & KI (m/w/d)",
+  "firma": "Sparkasse Vorderpfalz",
+  "ort": "67059 Ludwigshafen am Rhein",
+  "entfernung_km": 67,
+  "veroeffentlicht": "2026-11-05",
+  "eintritt": "2026-11-05",
+  "beruf": "Wirtschaftsinformatiker/in - IT-Systeme",
+  "gehalt": null,
+  "befristung": "BEFRISTET",
+  "score": 5,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003969913-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Trainee"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12265-485779_JB5293899-S",
+  "titel": "(Junior) Projektmanager Luft- und Raumfahrt (m/w/d)",
+  "firma": "FERCHAU GmbH Niederlassung Heilbronn",
+  "ort": "74523 Schwäbisch Hall",
+  "entfernung_km": 68,
+  "veroeffentlicht": "2026-11-09",
+  "eintritt": "2026-11-09",
+  "beruf": "Projektleiter/in / Projektmanager/in",
+  "gehalt": "50.000.0–70.000.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 5,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-485779_JB5293899-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Projektmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996082036-S",
+  "titel": "IT-Projektmanager-Digitalisierung (m/w/d)",
+  "firma": "DIS AG Germany",
+  "ort": "67550 Worms",
+  "entfernung_km": 91,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "IT-Projektleiter/in (Weiterbildung/Ausbildung)",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 5,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996082036-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Projektmanager Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12054-7H05MOE6A2BTZ93F-S",
+  "titel": "Supply Chain Solutions Consultant (m/w/d) in Direktvermittlung",
+  "firma": "temPERSO Rummel & Glass GmbH",
+  "ort": "74653 Künzelsau",
+  "entfernung_km": 74,
+  "veroeffentlicht": "2026-11-04",
+  "eintritt": "2026-11-04",
+  "beruf": "Supply-Chain-Manager/in",
+  "gehalt": "55.000.0–85.000.0 €",
+  "befristung": "UNBEFRISTET",
+  "score": 4,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12054-7H05MOE6A2BTZ93F-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant",
+   "Supply Chain",
+   "ERP Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "13645-287885-S",
+  "titel": "Strategischer Projektmanager (m/w/d) Project Management Office",
+  "firma": "VEGA Grieshaber",
+  "ort": "77761 Schiltach",
+  "entfernung_km": 83,
+  "veroeffentlicht": "2026-11-10",
+  "eintritt": "2026-11-10",
+  "beruf": "Ingenieur/in - Informations-, Kommunikationstechnik",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 4,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-287885-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996073561-S",
+  "titel": "Supply Chain Projektmanager Oberflächentechnik (m/w/d)",
+  "firma": "Bertrandt AG",
+  "ort": "73447 Oberkochen",
+  "entfernung_km": 94,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "Supply-Chain-Manager/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 4,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996073561-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1004003303-S",
+  "titel": "Agile Project Manager/Consultant (m/w/d)",
+  "firma": "Insiders Technologies GmbH",
+  "ort": "67657 Kaiserslautern",
+  "entfernung_km": 95,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-12",
+  "beruf": "Projektleiter/in / Projektmanager/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 4,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004003303-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessautomatisierung",
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "13645-288943-S",
+  "titel": "Agile Project Manager/Consultant (m/w/d)",
+  "firma": "Enit Energy IT Systems GmbH",
+  "ort": "67655 Kaiserslautern",
+  "entfernung_km": 96,
+  "veroeffentlicht": "2026-11-03",
+  "eintritt": "2026-11-03",
+  "beruf": "Ingenieur/in - Automatisierungstechnik",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 4,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-288943-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996074417-S",
+  "titel": "Junior IT-Sicherheitsberater (m/w/d)",
+  "firma": "DIS AG Germany",
+  "ort": "69115 Heidelberg, Neckar",
+  "entfernung_km": 53,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "Cyber-Security-Consultant",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996074417-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10000-1208509140-S",
+  "titel": "Trainee Innenausbau (m/w/d)",
+  "firma": "Heinrich Schmid GmbH & Co. KG",
+  "ort": "72766 Reutlingen",
+  "entfernung_km": 56,
+  "veroeffentlicht": "2026-11-02",
+  "eintritt": "2026-11-02",
+  "beruf": "Ingenieur/in - Bau",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208509140-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Trainee"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "13884-345618-S",
+  "titel": "Prozess-Manager / Logistik-Planer (m/w/d)",
+  "firma": "Duvenbeck Unternehmensgruppe",
+  "ort": "72160 Horb am Neckar",
+  "entfernung_km": 58,
+  "veroeffentlicht": "2026-11-16",
+  "eintritt": "2026-11-16",
+  "beruf": "Prozessmanager/in - RPA",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-345618-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12438-13924533-S",
+  "titel": "(Junior) Steuerfachwirt / Steuerreferent (m/w/d)",
+  "firma": "expertum GmbH",
+  "ort": "74632 Neuenstein, Württemberg",
+  "entfernung_km": 63,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2027-01-04",
+  "beruf": "Fachwirt/in - Steuer",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12438-13924533-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "Consultant Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10000-1208581392-S",
+  "titel": "Junior Projektleiter Infrastrukturleitsystem (m/w/d)",
+  "firma": "Rhein-Neckar-Verkehr GmbH Mannheim",
+  "ort": "68165 Mannheim",
+  "entfernung_km": 64,
+  "veroeffentlicht": "2026-11-06",
+  "eintritt": "2026-11-10",
+  "beruf": "Techniker/in - Elektrotechnik (ohne Schwerpunkt)/Bachelor Professional in Technik",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208581392-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Projektmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996074623-S",
+  "titel": "ERP Inhouse Consultant (m/w/d)",
+  "firma": "DIS AG Germany",
+  "ort": "64646 Heppenheim (Bergstraße)",
+  "entfernung_km": 78,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "ERP-Berater/in - ERP-Consultant",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996074623-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "ERP Consultant",
+   "Inhouse Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12908-065020019-S",
+  "titel": "Trainee Private Banking (m/w/d)",
+  "firma": "Kreissparkasse Ostalb",
+  "ort": "73430 Aalen, Württemberg",
+  "entfernung_km": 91,
+  "veroeffentlicht": "2026-11-09",
+  "eintritt": "2026-11-09",
+  "beruf": "Bankkaufmann/-frau",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-065020019-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Trainee"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003954440-S",
+  "titel": "Junior-Einkäufer (m/w/d)",
+  "firma": "Maschinenfabrik Alfing Kessler GmbH",
+  "ort": "73433 Aalen, Württemberg",
+  "entfernung_km": 92,
+  "veroeffentlicht": "2026-11-03",
+  "eintritt": "2026-11-03",
+  "beruf": "Wirtschaftsingenieur/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003954440-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12634-BB-646836-7878-4865-S",
+  "titel": "Testmanager Software & Automatisierung (m/w/d)",
+  "firma": "Akkodis Germany Tech Experts GmbH",
+  "ort": "73447 Oberkochen",
+  "entfernung_km": 94,
+  "veroeffentlicht": "2026-11-04",
+  "eintritt": "2026-11-04",
+  "beruf": "Software-Architect",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12634-BB-646836-7878-4865-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Testmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "14751-417A24972-S",
+  "titel": "Prozessverantwortlicher (m/w/d) Logistik",
+  "firma": "Orizon GmbH, Unit Aviation",
+  "ort": "73447 Oberkochen",
+  "entfernung_km": 94,
+  "veroeffentlicht": "2026-11-02",
+  "eintritt": "2026-11-02",
+  "beruf": "Betriebswirt/in (Hochschule) - Logistik",
+  "gehalt": "55.000.0–61.000.0 €",
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A24972-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996078984-S",
+  "titel": "IT Projekte & Prozessmanager (m/w/d)",
+  "firma": "DIS AG Germany",
+  "ort": "67346 Speyer",
+  "entfernung_km": 52,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "IT-Projektleiter/in (Weiterbildung/Ausbildung)",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996078984-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "13645-180139-S",
+  "titel": "Bauingenieur Projektmanagement (m/w/d)",
+  "firma": "VT-INGENIEURE GmbH",
+  "ort": "68775 Ketsch, Rhein",
+  "entfernung_km": 52,
+  "veroeffentlicht": "2026-11-06",
+  "eintritt": "2026-11-06",
+  "beruf": "Ingenieur/in - Bau",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-180139-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003990414-S",
+  "titel": "Enterprise Sales Manager (m/w/d) - Conversational AI",
+  "firma": "Aristech GmbH",
+  "ort": "69115 Heidelberg, Neckar",
+  "entfernung_km": 53,
+  "veroeffentlicht": "2026-11-10",
+  "eintritt": "2026-11-10",
+  "beruf": "Vertriebsberater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003990414-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessautomatisierung",
+   "Künstliche Intelligenz Prozesse"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1004013809-S",
+  "titel": "Business Analyst / IT-Koordination - Projekt-IT (m/w/d)",
+  "firma": "EM Energie + Umwelttechnik GmbH",
+  "ort": "68723 Plankstadt",
+  "entfernung_km": 53,
+  "veroeffentlicht": "2026-11-13",
+  "eintritt": "2027-01-01",
+  "beruf": "IT-Organisator/in",
+  "gehalt": null,
+  "befristung": "BEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004013809-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Business Analyst",
+   "PMO"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "14225-97c26d1b3de43e45-S",
+  "titel": "Wirtschaftsingenieur (m/w/d)",
+  "firma": "Stadtwerke Heidelberg Netze GmbH",
+  "ort": "69115 Heidelberg, Neckar",
+  "entfernung_km": 53,
+  "veroeffentlicht": "2026-11-06",
+  "eintritt": "2026-11-06",
+  "beruf": "Ingenieur/in - Elektrotechnik",
+  "gehalt": "57.000.0–72.000.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-97c26d1b3de43e45-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996075485-S",
+  "titel": "IT-Prozessmanager (m/w/d)",
+  "firma": "DIS AG Germany",
+  "ort": "69259 Wilhelmsfeld",
+  "entfernung_km": 58,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "IT-Manager/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996075485-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "14897-BB-1894551-7878-557-S",
+  "titel": "Prozesskoordinator (m/w/d) Heißbereich",
+  "firma": "Saint-Gobain Isover G+H AG Zentralverwaltung",
+  "ort": "68526 Ladenburg",
+  "entfernung_km": 62,
+  "veroeffentlicht": "2026-11-09",
+  "eintritt": "2026-11-11",
+  "beruf": "Prozessmanager/in - Produktionstechnologie",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14897-BB-1894551-7878-557-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12117-YF-54291-YF-S",
+  "titel": "CRM Project & Process Manager (m/w/d)",
+  "firma": "PHOENIX Pharmahandel GmbH & Co KG",
+  "ort": "68199 Mannheim",
+  "entfernung_km": 62,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-12",
+  "beruf": "Business-Analyst/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-54291-YF-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Business Analyst"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12265-485143_JB5289399-S",
+  "titel": "Supply Chain Manager (m/w/d)",
+  "firma": "FERCHAU GmbH Niederlassung Mannheim",
+  "ort": "68163 Mannheim",
+  "entfernung_km": 63,
+  "veroeffentlicht": "2026-11-03",
+  "eintritt": "2026-11-03",
+  "beruf": "Supply-Chain-Manager/in",
+  "gehalt": "50.000.0–70.000.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-485143_JB5289399-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain",
+   "Lean Management"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1004006472-S",
+  "titel": "Prozessentwickler (m/w/d)",
+  "firma": "KW Automotive GmbH",
+  "ort": "74427 Fichtenberg, Württemberg",
+  "entfernung_km": 64,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-12",
+  "beruf": "Fachwirt/in - Arbeitsstudium und Betriebsorganisation",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004006472-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Lean Management"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003969688-S",
+  "titel": "Business Process Analyst (m/w/d) - Firmenkunden",
+  "firma": "Continentale Krankenversicherung a.G.",
+  "ort": "68165 Mannheim",
+  "entfernung_km": 65,
+  "veroeffentlicht": "2026-11-05",
+  "eintritt": "2026-11-16",
+  "beruf": "Wirtschaftsinformatiker/in (Hochschule)",
+  "gehalt": null,
+  "befristung": "BEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003969688-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Business Analyst"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003969728-S",
+  "titel": "Business Process Analyst (m/w/d) - Bestand und Output",
+  "firma": "Continentale Krankenversicherung a.G.",
+  "ort": "68165 Mannheim",
+  "entfernung_km": 65,
+  "veroeffentlicht": "2026-11-05",
+  "eintritt": "2026-11-16",
+  "beruf": "Wirtschaftsinformatiker/in (Hochschule)",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003969728-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Business Analyst"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "14225-18aadd90d2308003-S",
+  "titel": "Consultant (m/w/d)",
+  "firma": "HEINRICH KIPP WERK GmbH & Co. KG",
+  "ort": "72172 Sulz am Neckar",
+  "entfernung_km": 66,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-12",
+  "beruf": "Wirtschaftsinformatiker/in - IT-Systeme",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-18aadd90d2308003-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "13645-287901-S",
+  "titel": "Prozessmanager (m/w/d) Vertriebsprozesse",
+  "firma": "Energienetze Offenbach GmbH (ENO)",
+  "ort": "68161 Mannheim",
+  "entfernung_km": 66,
+  "veroeffentlicht": "2026-11-10",
+  "eintritt": "2026-11-10",
+  "beruf": "Ingenieur/in - Elektrotechnik",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-287901-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12362-TR224554_1340CS-S",
+  "titel": "Projektmanager für anspruchsvolle IT-Projekte (m/w/d)",
+  "firma": "Brunel GmbH NL Mannheim",
+  "ort": "Mannheim",
+  "entfernung_km": 66,
+  "veroeffentlicht": "2026-11-09",
+  "eintritt": "2026-11-09",
+  "beruf": "Betriebswirt/in (Hochschule) - Marketing",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR224554_1340CS-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Projektmanager Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12362-TR250220_1342CS-S",
+  "titel": "Materialdisponent / Supply Chain Disponent (w/m/d)",
+  "firma": "Brunel GmbH NL Mannheim",
+  "ort": "Mannheim",
+  "entfernung_km": 66,
+  "veroeffentlicht": "2026-11-09",
+  "eintritt": "2026-11-09",
+  "beruf": "Fachkraft - Logistik/Materialwirtschaft",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR250220_1342CS-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12362-TR293253_6563CS-S",
+  "titel": "Business Process & Master Data Specialist (w/m/d)",
+  "firma": "Brunel GmbH NL Mannheim",
+  "ort": "Mannheim",
+  "entfernung_km": 66,
+  "veroeffentlicht": "2026-11-13",
+  "eintritt": "2026-11-13",
+  "beruf": "Betriebswirt/in (Hochschule)",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR293253_6563CS-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-5000534251-S",
+  "titel": "Business Analyst Kreditmanagement mit Schwerpunkt Kreditvertrag (m/w/d)",
+  "firma": "Bausparkasse Schwäbisch Hall AG",
+  "ort": "74523 Schwäbisch Hall",
+  "entfernung_km": 67,
+  "veroeffentlicht": "2026-11-16",
+  "eintritt": "2026-11-17",
+  "beruf": "Kreditsachbearbeiter/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5000534251-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Business Analyst"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003979716-S",
+  "titel": "Projektmanager (m/w/d/x) Direkteinstellung",
+  "firma": "Speer GmbH & Co. KG",
+  "ort": "68167 Mannheim",
+  "entfernung_km": 67,
+  "veroeffentlicht": "2026-11-06",
+  "eintritt": "2026-11-06",
+  "beruf": "Betriebswirt/in (Fachschule) - Projektmanagement",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003979716-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Projektmanager Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "11119-4994387268-S",
+  "titel": "Global Industrial Engineer Product & Process Integration (m/w/d)",
+  "firma": "All-Jobs Personalservice GmbH",
+  "ort": "74523 Schwäbisch Hall",
+  "entfernung_km": 67,
+  "veroeffentlicht": "2026-11-10",
+  "eintritt": "2026-11-17",
+  "beruf": "Ingenieur/in - Maschinenbau",
+  "gehalt": "70.000.0–80.000.0 €",
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4994387268-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "13669-PM314L5D3E7YN1VE-S",
+  "titel": "IT Security Consultant (m/w/d)",
+  "firma": "puro Personaldienstleistung GmbH",
+  "ort": "74676 Niedernhall",
+  "entfernung_km": 68,
+  "veroeffentlicht": "2026-11-15",
+  "eintritt": "2026-11-15",
+  "beruf": "Fachinformatiker/in - Systemintegration",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13669-PM314L5D3E7YN1VE-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996078854-S",
+  "titel": "Technology Consultant (m/w/d)",
+  "firma": "SPIE RODIAS GmbH",
+  "ort": "69469 Weinheim, Bergstraße",
+  "entfernung_km": 68,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-14",
+  "beruf": "IT-Berater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996078854-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12054-PMRVCUDCS0SJVSRG-S",
+  "titel": "Supply Chain Manager (m/w/d) in Direktvermittlung",
+  "firma": "temPERSO Rummel & Glass GmbH",
+  "ort": "74653 Künzelsau",
+  "entfernung_km": 74,
+  "veroeffentlicht": "2026-11-04",
+  "eintritt": "2026-11-04",
+  "beruf": "Supply-Chain-Manager/in",
+  "gehalt": "50.000.0–78.000.0 €",
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12054-PMRVCUDCS0SJVSRG-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "15086-44547251-112-S",
+  "titel": "Presales Consultant (w/m/d)",
+  "firma": "Bechtle AG",
+  "ort": "72336 Balingen",
+  "entfernung_km": 76,
+  "veroeffentlicht": "2026-11-03",
+  "eintritt": "2026-11-03",
+  "beruf": "CRM-Consultant",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44547251-112-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "ERP Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10000-1208560119-S",
+  "titel": "IT-Prozessmanager (m/w/d)",
+  "firma": "Gesundheitszentrum Odenwaldkreis GmbH",
+  "ort": "64711 Erbach, Odenwald",
+  "entfernung_km": 79,
+  "veroeffentlicht": "2026-11-05",
+  "eintritt": "2026-11-05",
+  "beruf": "Fachinformatiker/in - Systemintegration",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208560119-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "19192-260722-24386799-S",
+  "titel": "Qualitäts- und Prozessmanager Bauwesen (m/w/d)",
+  "firma": "Constructive Minds - We create tomorrow",
+  "ort": "77652 Offenburg",
+  "entfernung_km": 83,
+  "veroeffentlicht": "2026-11-11",
+  "eintritt": "2026-11-11",
+  "beruf": "Projektleiter/in / Projektmanager/in",
+  "gehalt": "32.700.0–85.700.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19192-260722-24386799-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "14225-44b4184d6dd89a71-S",
+  "titel": "Wirtschaftsingenieur - Vertriebsmitarbeiter (m/w/d)",
+  "firma": "Antago GmbH",
+  "ort": "64625 Bensheim",
+  "entfernung_km": 83,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-16",
+  "beruf": "Kaufmann/-frau - E-Commerce",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-44b4184d6dd89a71-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12117-YF-53249-YF-S",
+  "titel": "Projektmanager - (Wirtschafts)Informatiker, (Wirtschafts)Ingenieur - Energiewirtschaft, (m/w/d)",
+  "firma": "Elektrizitätswerk Mittelbaden AG & Co. KG",
+  "ort": "77652 Offenburg",
+  "entfernung_km": 83,
+  "veroeffentlicht": "2026-11-09",
+  "eintritt": "2026-11-09",
+  "beruf": "Projektleiter/in / Projektmanager/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-53249-YF-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003991391-S",
+  "titel": "Prozessingenieur (m/­w/­d) Produktion",
+  "firma": "FERCHAU GmbH Niederlassung Freiburg",
+  "ort": "Offenburg",
+  "entfernung_km": 84,
+  "veroeffentlicht": "2026-11-10",
+  "eintritt": "2026-11-10",
+  "beruf": "Wirtschaftsingenieur/in",
+  "gehalt": "52.000.0–68.000.0 €",
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003991391-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur",
+   "Lean Management"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996080734-S",
+  "titel": "Process Control Specialist (m/w/d)",
+  "firma": "Action",
+  "ort": "68647 Biblis",
+  "entfernung_km": 88,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-14",
+  "beruf": "Prozessmanager/in - Produktionstechnologie",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996080734-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003964993-S",
+  "titel": "Prozessentwickler – Integration von Modulen und Systemen (m/w/d) 1111-652",
+  "firma": "PAPEVE GmbH Der Spezialist für Ingenieure Techniker und Fachpersonal",
+  "ort": "Aalen, Württemberg",
+  "entfernung_km": 93,
+  "veroeffentlicht": "2026-11-04",
+  "eintritt": "2026-11-04",
+  "beruf": "Ingenieur/in - Maschinenbau",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003964993-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996072472-S",
+  "titel": "Prozessentwickler für optische Modul- & Systemintegration (m/w/d)",
+  "firma": "Bertrandt AG",
+  "ort": "73447 Oberkochen",
+  "entfernung_km": 94,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "Prozessmanager/in - Mikrotechnologie",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996072472-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12265-524056_JB5294008-S",
+  "titel": "Sourcing Projektmanager (m/w/d)",
+  "firma": "FERCHAU GmbH Niederlassung Heidenheim",
+  "ort": "73447 Oberkochen",
+  "entfernung_km": 94,
+  "veroeffentlicht": "2026-11-09",
+  "eintritt": "2026-11-09",
+  "beruf": "Projektleiter/in / Projektmanager/in",
+  "gehalt": "70.000.0–80.000.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-524056_JB5294008-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996059349-S",
+  "titel": "Spezialist Disposition, Planung & Prozesse (m/w/d)",
+  "firma": "WIKA Gruppe",
+  "ort": "63911 Klingenberg am Main",
+  "entfernung_km": 95,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-14",
+  "beruf": "Prozessmanager/in - Produktionstechnologie",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996059349-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "13319-901339/1_6400CS-S",
+  "titel": "Microsoft Dynamics 365 CRM Consultant (m/w/d)",
+  "firma": "Hays AG",
+  "ort": "89584 Ehingen (Donau)",
+  "entfernung_km": 96,
+  "veroeffentlicht": "2026-11-11",
+  "eintritt": "2026-11-11",
+  "beruf": "CRM-Consultant",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-901339/1_6400CS-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12688-REG-42134-RJA-S",
+  "titel": "Global Business Process Manager Customer Care (all genders)",
+  "firma": "Ivoclar Vivadent GmbH",
+  "ort": "73479 Ellwangen (Jagst)",
+  "entfernung_km": 97,
+  "veroeffentlicht": "2026-11-16",
+  "eintritt": "2026-11-16",
+  "beruf": "Business-Analyst/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-REG-42134-RJA-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Business Analyst"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003739534-S",
+  "titel": "Automatisierungstechniker (m/w/d) Gebäudetechnik",
+  "firma": "Futurement Service GmbH",
+  "ort": "64297 Darmstadt",
+  "entfernung_km": 98,
+  "veroeffentlicht": "2026-11-13",
+  "eintritt": "2026-11-13",
+  "beruf": "Elektroniker/in - Automatisierungstechnik (Handwerk)",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003739534-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Künstliche Intelligenz Prozesse"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "14418-48950-1804075-0-S",
+  "titel": "Projektmanager (m/w/d) Finanz- und Rechnungswesen",
+  "firma": "Schmieder GmbH Unternehmensberatung",
+  "ort": "72488 Sigmaringen",
+  "entfernung_km": 98,
+  "veroeffentlicht": "2026-11-16",
+  "eintritt": "2026-11-17",
+  "beruf": "Betriebswirt/in (Fachschule) - Projektmanagement",
+  "gehalt": null,
+  "befristung": "BEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14418-48950-1804075-0-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Projektmanager Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12265-502408_JB5297496-S",
+  "titel": "Project Manager Customer Care (m/w/d)",
+  "firma": "FERCHAU GmbH Niederlassung Heidenheim",
+  "ort": "73432 Aalen, Württemberg",
+  "entfernung_km": 98,
+  "veroeffentlicht": "2026-11-13",
+  "eintritt": "2026-11-13",
+  "beruf": "Supply-Chain-Manager/in",
+  "gehalt": "50.000.0–70.000.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-502408_JB5297496-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1003947844-S",
+  "titel": "Prozessmanager/-in (w/m/d)",
+  "firma": "Landratsamt Sigmaringen",
+  "ort": "72488 Sigmaringen",
+  "entfernung_km": 99,
+  "veroeffentlicht": "2026-11-02",
+  "eintritt": "2027-02-01",
+  "beruf": "Beamter/Beamtin - Kommunalverwaltung (gehobener nichttechnischer Dienst)",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003947844-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "18251-34348-S",
+  "titel": "Prozessmanager (all genders) Warehouse Operations Lahr",
+  "firma": "Zalando SE",
+  "ort": "77933 Lahr, Schwarzwald",
+  "entfernung_km": 99,
+  "veroeffentlicht": "2026-11-06",
+  "eintritt": "2026-12-01",
+  "beruf": "Projektleiter/in / Projektmanager/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18251-34348-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12265-348730_JB5297597-S",
+  "titel": "Logistikplaner (m/w/d)",
+  "firma": "FERCHAU GmbH Niederlassung Reutlingen",
+  "ort": "72764 Reutlingen",
+  "entfernung_km": 58,
+  "veroeffentlicht": "2026-11-13",
+  "eintritt": "2026-11-13",
+  "beruf": "Wirtschaftsingenieur/in",
+  "gehalt": "60.000.0–70.000.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-348730_JB5297597-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur",
+   "Logistikplaner"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12265-484834_JB5293667-S",
+  "titel": "Logistikplaner (m/w/d)",
+  "firma": "FERCHAU GmbH Niederlassung Mannheim",
+  "ort": "68163 Mannheim",
+  "entfernung_km": 63,
+  "veroeffentlicht": "2026-11-09",
+  "eintritt": "2026-11-09",
+  "beruf": "Logistiker/in",
+  "gehalt": "45.000.0–70.000.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-484834_JB5293667-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur",
+   "Supply Chain",
+   "Logistikplaner",
+   "Lean Management"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-4996060524-S",
+  "titel": "Logistikplaner (m/w/d)",
+  "firma": "YER",
+  "ort": "68163 Mannheim",
+  "entfernung_km": 63,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-13",
+  "beruf": "Logistiker/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996060524-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Logistikplaner"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "11864-91MKPW8BHQ4A74XF-S",
+  "titel": "Logistikplaner / Logistikingenieur Materialfluss & Labor m/w/d - Roche Mannheim",
+  "firma": "Franz & Wach Personalservice GmbH",
+  "ort": "68163 Mannheim",
+  "entfernung_km": 63,
+  "veroeffentlicht": "2026-11-10",
+  "eintritt": "2026-12-05",
+  "beruf": "Data-Analyst/in",
+  "gehalt": "45.000.0–78.500.0 €",
+  "befristung": "BEFRISTET",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11864-91MKPW8BHQ4A74XF-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Logistikplaner"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "13645-287437-S",
+  "titel": "Anwendungstechniker Productmanagement Automotive Aftermarket (m/w/d)",
+  "firma": "FUCHS SE",
+  "ort": "68161 Mannheim",
+  "entfernung_km": 66,
+  "veroeffentlicht": "2026-11-03",
+  "eintritt": "2026-11-03",
+  "beruf": "Ingenieur/in - Chemietechnik",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-287437-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1004002504-S",
+  "titel": "Business Solution Architect (m/w/d) Automotive (1402)",
+  "firma": "Brüggen Engineering GmbH",
+  "ort": "Mannheim",
+  "entfernung_km": 66,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-12",
+  "beruf": "Ingenieur/in - Technische Informatik",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004002504-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12288-5000566887-S",
+  "titel": "ERP-Spezialist (m/w/d)",
+  "firma": "DIS AG Germany",
+  "ort": "68161 Mannheim",
+  "entfernung_km": 66,
+  "veroeffentlicht": "2026-11-16",
+  "eintritt": "2026-11-17",
+  "beruf": "ERP-Berater/in - ERP-Consultant",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5000566887-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "ERP Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "13645-287727-S",
+  "titel": "Test Engineer (m/w/d)",
+  "firma": "RECARO",
+  "ort": "74523 Schwäbisch Hall",
+  "entfernung_km": 68,
+  "veroeffentlicht": "2026-11-08",
+  "eintritt": "2026-11-08",
+  "beruf": "Ingenieur/in - Maschinenbau",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-287727-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10000-1208623037-S",
+  "titel": "Lean Manager (m/w/d)",
+  "firma": "Bürstadt Furniture GmbH",
+  "ort": "68642 Bürstadt",
+  "entfernung_km": 82,
+  "veroeffentlicht": "2026-11-11",
+  "eintritt": "2026-11-11",
+  "beruf": "Lean-Manager/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208623037-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur",
+   "Lean Management"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "20309-8543-1804105-0-S",
+  "titel": "Bereichsleiter Operations, z. B. Betriebswirt, Fachwirt Logistik, Logistikmeister (m/w/d)",
+  "firma": "BLG Industrielogistik GmbH & Co. KG",
+  "ort": "64653 Lorsch, Hessen",
+  "entfernung_km": 83,
+  "veroeffentlicht": "2026-11-16",
+  "eintritt": "2027-01-01",
+  "beruf": "Bereichsleiter/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20309-8543-1804105-0-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Lean Management"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12265-517789_JB5297409-S",
+  "titel": "Testmanager IT / OT (m/w/d)",
+  "firma": "FERCHAU GmbH Niederlassung Heidenheim",
+  "ort": "73447 Oberkochen",
+  "entfernung_km": 94,
+  "veroeffentlicht": "2026-11-13",
+  "eintritt": "2026-11-13",
+  "beruf": "IT-Tester/in",
+  "gehalt": "75.000.0–80.000.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-517789_JB5297409-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Testmanager"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "11982-13926409-S",
+  "titel": "Logistikplaner m/w/d",
+  "firma": "tempoZeitarbeit GmbH",
+  "ort": "73447 Oberkochen",
+  "entfernung_km": 94,
+  "veroeffentlicht": "2026-11-13",
+  "eintritt": "2026-11-13",
+  "beruf": "Betriebswirt/in (Hochschule) - Logistik",
+  "gehalt": null,
+  "befristung": "BEFRISTET",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11982-13926409-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain",
+   "Logistikplaner"
   ],
   "erstmals_gesehen": "2026-11-16"
  }
