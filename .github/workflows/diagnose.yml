@@ -5,13 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          Q='was=Consultant&wo=Stuttgart&umkreis=25&size=2'
-          for v in v4 v5 v6; do
-            for ua in "bewerbungen-scanner/1.0" "Jobsuche/2.9.2 (de.arbeitsagentur.jobboerse; build:1077; iOS 15.1.0) Alamofire/5.4.4" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"; do
-              echo "== $v | $ua"
-              curl -s -m 20 -o /tmp/b -w "%{http_code}\n" -H "X-API-Key: jobboerse-jobsuche" -H "User-Agent: $ua" "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/$v/jobs?$Q"
-              head -c 300 /tmp/b; echo
-            done
-          done
-          echo "== app endpoint"
-          curl -s -m 20 -o /tmp/b -w "%{http_code}\n" -H "X-API-Key: jobboerse-jobsuche" "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/app/jobs?$Q"; head -c 300 /tmp/b; echo
+          curl -s -m 20 -H "X-API-Key: jobboerse-jobsuche" "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v6/jobs?was=Junior%20Consultant&wo=75417%20M%C3%BChlacker&umkreis=50&angebotsart=1&veroeffentlichtseit=14&size=2&page=1" > /tmp/b
+          echo "==KEYS"; jq -c 'keys' /tmp/b
+          echo "==BODY"; jq -c 'del(.facetten)' /tmp/b | head -c 3000; echo
