@@ -1,0 +1,12 @@
+name: Diagnose
+on: workflow_dispatch
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"
+          echo "==ROBOTS"; curl -sSL -m 20 -A "$UA" https://uniwunder.de/robots.txt | head -40
+          echo "==HOME"; curl -sSL -m 20 -A "$UA" -o home.html -w "%{http_code} %{url_effective}\n" https://uniwunder.de/
+          echo "==LINKS"; grep -oE 'href="[^"]+"' home.html | sort -u | grep -iE 'job|stell|karriere|einstieg|absolvent|career' | head -40
+          echo "==SITEMAP"; curl -sSL -m 20 -A "$UA" https://uniwunder.de/sitemap.xml | grep -oE '<loc>[^<]+' | grep -iE 'job|stell|einstieg|absolvent' | head -40
