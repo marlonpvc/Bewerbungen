@@ -20,7 +20,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-API = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs"
+API = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v6/jobs"
 HEADERS = {"X-API-Key": "jobboerse-jobsuche", "User-Agent": "bewerbungen-scanner/1.0"}
 DETAIL_URL = "https://www.arbeitsagentur.de/jobsuche/jobdetail/{refnr}"
 
@@ -54,7 +54,7 @@ def suche(begriff: str, cfg: dict, session: requests.Session) -> list[dict]:
         else:
             break
         daten = r.json()
-        angebote = daten.get("stellenangebote") or []
+        angebote = daten.get("ergebnisliste") or daten.get("stellenangebote") or []
         treffer.extend(angebote)
         if len(angebote) < 100:
             break
@@ -86,21 +86,28 @@ def zahl(wert) -> int | None:
 
 
 def normalisiere(a: dict, begriff: str, cfg: dict) -> dict | None:
-    titel = (a.get("titel") or a.get("beruf") or "").strip()
+    titel = (a.get("stellenangebotsTitel") or a.get("titel") or a.get("hauptberuf") or "").strip()
     score = bewerte(titel, cfg)
     if score is None or score == 0:
         return None
-    ort = a.get("arbeitsort") or {}
-    refnr = a.get("refnr", "")
+    lok = (a.get("stellenlokationen") or [{}])[0].get("adresse") or a.get("arbeitsort") or {}
+    refnr = a.get("referenznummer") or a.get("refnr") or ""
+    gehalt = None
+    if a.get("gehaltsspanneVon"):
+        bis = a.get("gehaltsspanneBis")
+        gehalt = f"{a['gehaltsspanneVon']:,}" + (f"–{bis:,}" if bis else "") + " €"
+        gehalt = gehalt.replace(",", ".")
     return {
         "id": refnr,
         "titel": titel,
-        "firma": (a.get("arbeitgeber") or "").strip(),
-        "ort": " ".join(x for x in [ort.get("plz", ""), ort.get("ort", "")] if x).strip(),
-        "entfernung_km": zahl(ort.get("entfernung")),
-        "veroeffentlicht": a.get("aktuelleVeroeffentlichungsdatum"),
-        "eintritt": a.get("eintrittsdatum"),
-        "beruf": a.get("beruf"),
+        "firma": (a.get("firma") or a.get("arbeitgeber") or "").strip(),
+        "ort": " ".join(x for x in [lok.get("plz", ""), lok.get("ort", "")] if x).strip(),
+        "entfernung_km": zahl(a.get("entfernung", lok.get("entfernung"))),
+        "veroeffentlicht": a.get("datumErsteVeroeffentlichung") or a.get("aktuelleVeroeffentlichungsdatum"),
+        "eintritt": (a.get("eintrittszeitraum") or {}).get("von") or a.get("eintrittsdatum"),
+        "beruf": a.get("hauptberuf") or a.get("beruf"),
+        "gehalt": gehalt,
+        "befristung": a.get("vertragsdauer"),
         "score": score,
         "link_jobboerse": DETAIL_URL.format(refnr=refnr),
         "link_extern": a.get("externeUrl"),
