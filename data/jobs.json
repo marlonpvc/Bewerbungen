@@ -83,26 +83,6 @@
   "erstmals_gesehen": "2026-11-18"
  },
  {
-  "id": "12288-4996078911-S",
-  "titel": "(Junior) Consultant (w/m/d) Digitales Baumanagement und Dalux",
-  "firma": "Drees & Sommer SE",
-  "ort": "70569 Stuttgart",
-  "entfernung_km": 29,
-  "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-13",
-  "beruf": "Berater/in - digitale Transformation",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 6,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996078911-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Junior Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "12465-1650996-1-S",
   "titel": "Trainee (w/m/d) im Market Development – Digital Industries Automation",
   "firma": "Siemens AG",
@@ -212,7 +192,7 @@
   "ort": "75031 Eppingen",
   "entfernung_km": 18,
   "veroeffentlicht": "2026-11-17",
-  "eintritt": "2026-11-17",
+  "eintritt": "2026-11-18",
   "beruf": "Projektleiter/in / Projektmanager/in",
   "gehalt": null,
   "befristung": "UNBEFRISTET",
@@ -244,26 +224,6 @@
    "IT Consultant"
   ],
   "erstmals_gesehen": "2026-11-18"
- },
- {
-  "id": "12288-4996071925-S",
-  "titel": "Junior Consultant (w/m/d) Claim- und Risikomanagement in Bau- und Immobilienprojekten",
-  "firma": "Drees & Sommer SE",
-  "ort": "70569 Stuttgart",
-  "entfernung_km": 29,
-  "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-13",
-  "beruf": "Berater/in - Immobilienfinanzierung",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 5,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996071925-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Junior Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-16"
  },
  {
   "id": "13644-6939-S",
@@ -393,6 +353,50 @@
   "erstmals_gesehen": "2026-11-18"
  },
  {
+  "id": "18989-984544929-S",
+  "titel": "Consultant Public Sector Transformation, Infrastrukturförderung und Digitalisierung (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Unternehmensberater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 5,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984544929-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984544042-S",
+  "titel": "Consultant IT & Prozesse - Automotive (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "IT-Berater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 5,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984544042-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "ERP Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
   "id": "13635-2c2411b3_JB5297272-S",
   "titel": "KI- und Digitalisierungsmanager (m/w/d)",
   "firma": "Grub Brugger Partnerschaft von Rechtsanwälten mbB",
@@ -431,6 +435,27 @@
    "Junior Projektmanager"
   ],
   "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "15719-44579879-1118-S",
+  "titel": "MINT-Absolvent als Business Analyst (m/w/d)",
+  "firma": "Allianz Deutschland AG",
+  "ort": "70565 Stuttgart",
+  "entfernung_km": 32,
+  "veroeffentlicht": "2026-11-19",
+  "eintritt": "2026-11-19",
+  "beruf": "Business-Analyst/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 5,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15719-44579879-1118-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Künstliche Intelligenz Prozesse",
+   "Business Analyst"
+  ],
+  "erstmals_gesehen": "2026-11-19"
  },
  {
   "id": "15006-k40180.6293-S",
@@ -639,6 +664,90 @@
   "erstmals_gesehen": "2026-11-17"
  },
  {
+  "id": "18989-984519129-S",
+  "titel": "Consultant IT & Prozesse (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 4,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984519129-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "ERP Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984541897-S",
+  "titel": "Consultant Projektmanagement Public Sector (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 4,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984541897-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984543903-S",
+  "titel": "Consultant Tax Tech- und Prozessberatung (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Steuerberater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 4,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984543903-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984543042-S",
+  "titel": "Consultant Low Code Development Public Sector (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Unternehmensberater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 4,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984543042-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
   "id": "13644-311766-S",
   "titel": "Agentic AI Consultant Public Sector (w/m/d)",
   "firma": "Capgemini",
@@ -718,26 +827,6 @@
    "Supply Chain"
   ],
   "erstmals_gesehen": "2026-11-18"
- },
- {
-  "id": "13319-901595/1_6637CS-S",
-  "titel": "Data & AI Business Analyst Lieferantenregress (m/w/d)",
-  "firma": "Hays Professional Solutions GmbH Standort Stuttgart",
-  "ort": "Stuttgart",
-  "entfernung_km": 30,
-  "veroeffentlicht": "2026-11-16",
-  "eintritt": "2026-11-16",
-  "beruf": "Business-Analyst/in",
-  "gehalt": null,
-  "befristung": "BEFRISTET",
-  "score": 4,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-901595/1_6637CS-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Business Analyst"
-  ],
-  "erstmals_gesehen": "2026-11-16"
  },
  {
   "id": "12634-BB-647173-7878-1953-S",
@@ -846,7 +935,7 @@
   "ort": "69168 Wiesloch",
   "entfernung_km": 41,
   "veroeffentlicht": "2026-11-16",
-  "eintritt": "2026-11-17",
+  "eintritt": "2026-11-18",
   "beruf": "IT-Berater/in",
   "gehalt": null,
   "befristung": "UNBEFRISTET",
@@ -940,6 +1029,68 @@
    "Supply Chain"
   ],
   "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "18989-984544215-S",
+  "titel": "Consultant IKS Beratung & Optimierung (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Leiter/in - Risikomanagement",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984544215-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984518641-S",
+  "titel": "Consultant Digital Transformation - Financial Services (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984518641-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984544359-S",
+  "titel": "Consultant - IT Beratung Energiewirtschaft (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "IT-Berater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984544359-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
  },
  {
   "id": "13644-311175-S",
@@ -1264,6 +1415,26 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "10001-1004034774-S",
+  "titel": "Trainee Postproduction Videoschnitte & Grafik (m/w/d)",
+  "firma": "Sidney R. Wolff Partner für Gemeinschaftsverpf",
+  "ort": "74626 Bretzfeld",
+  "entfernung_km": 48,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-11-18",
+  "beruf": "Mediengestalter/in - Bild und Ton",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004034774-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Trainee"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
   "id": "13644-299795-S",
   "titel": "Technical Consultant (m/w/d)",
   "firma": "WidasConcepts",
@@ -1511,7 +1682,7 @@
   "ort": "76227 Karlsruhe, Baden",
   "entfernung_km": 29,
   "veroeffentlicht": "2026-11-13",
-  "eintritt": "2026-11-13",
+  "eintritt": "2026-11-18",
   "beruf": "IT-Berater/in",
   "gehalt": null,
   "befristung": "UNBEFRISTET",
@@ -1587,6 +1758,155 @@
    "Wirtschaftsingenieur"
   ],
   "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "18989-984544050-S",
+  "titel": "Consultant IT Compliance (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Assistent/in - Wirtschaftsprüfung",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984544050-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "ERP Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984544275-S",
+  "titel": "Consultant Public Health (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Unternehmensberater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984544275-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984544407-S",
+  "titel": "Consultant Public Health - Schwerpunkt Krankenhaus Transformation (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "ERP-Berater/in - ERP-Consultant",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984544407-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "ERP Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984544561-S",
+  "titel": "Consultant Strategie- und Organisationsberatung für Kirchen (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Unternehmensberater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984544561-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984542163-S",
+  "titel": "Consultant Change Management Public Sector (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Change-Manager/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984542163-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984546975-S",
+  "titel": "Consultant IT-Compliance Financial Services (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Compliance-Manager/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984546975-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "10001-1004035010-S",
+  "titel": "IT-Consultant Business Analyse Energiewirtschaft (m/w/d)",
+  "firma": "PTA GmbH",
+  "ort": "Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-11-18",
+  "beruf": "Business-Analyst/in",
+  "gehalt": "50.000.0–75.000.0 €",
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004035010-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "KI Consultant",
+   "Business Analyst"
+  ],
+  "erstmals_gesehen": "2026-11-19"
  },
  {
   "id": "13644-202847-S",
@@ -1748,6 +2068,26 @@
    "IT Consultant"
   ],
   "erstmals_gesehen": "2026-11-18"
+ },
+ {
+  "id": "18989-984548638-S",
+  "titel": "Consultant Business Continuity & Resilience Management (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Business-Continuity-Manager/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984548638-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
  },
  {
   "id": "10001-1003994242-S",
@@ -1930,6 +2270,127 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "12288-5004172139-S",
+  "titel": "Gruppenleiter:in Workforce Management und Prozessautomatisierung Komposit (m/w/d)",
+  "firma": "SV SparkassenVersicherung",
+  "ort": "70376 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-19",
+  "eintritt": "2026-11-19",
+  "beruf": "Gruppen-, Teamleiter/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5004172139-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessautomatisierung"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984543915-S",
+  "titel": "Consultant Data Analytics Global Transformation Tax (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Data-Analyst/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984543915-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Power Platform",
+   "Power Automate"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984542832-S",
+  "titel": "Consultant Deals Tax (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Steuerberater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984542832-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984547182-S",
+  "titel": "Consultant Valuation, Modeling & Analytics (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Unternehmensberater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984547182-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984543102-S",
+  "titel": "Consultant Performance Improvement (im P&R Team) (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Unternehmensberater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984543102-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
+  "id": "18989-984543622-S",
+  "titel": "Consultant M&A / Mergers & Acquisitions (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Mergers-and-Acquisitions-Specialist",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984543622-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
   "id": "13644-313024-S",
   "titel": "Business Analyst Systeme für Kunden- und Partnerdaten (m/w/d)",
   "firma": "Stuttgarter Versicherung",
@@ -1948,26 +2409,6 @@
    "Business Analyst"
   ],
   "erstmals_gesehen": "2026-11-18"
- },
- {
-  "id": "12288-4996071347-S",
-  "titel": "IT-Business Analyst (m/w/d) - Kapitalmarkt-Plattform",
-  "firma": "LBBW",
-  "ort": "70173 Stuttgart",
-  "entfernung_km": 30,
-  "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-13",
-  "beruf": "Wirtschaftsinformatiker/in - IT-Systeme",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996071347-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Business Analyst"
-  ],
-  "erstmals_gesehen": "2026-11-16"
  },
  {
   "id": "13645-273862-S",
@@ -2008,6 +2449,27 @@
    "Wirtschaftsingenieur"
   ],
   "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "13319-901884/1_7012CS-S",
+  "titel": "Bereichsleitung Supply Chain Management (m/w/d)",
+  "firma": "Hays AG",
+  "ort": "Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-11-18",
+  "beruf": "Leiter/in - Supply-Chain-Management",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-901884/1_7012CS-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain",
+   "Lean Management"
+  ],
+  "erstmals_gesehen": "2026-11-19"
  },
  {
   "id": "12288-4996072918-S",
@@ -2070,6 +2532,26 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "12908-065157553-S",
+  "titel": "Legal Counsel - Global Supply Chain (m/f/d)",
+  "firma": "Advantest Europe GmbH",
+  "ort": "71034 Böblingen",
+  "entfernung_km": 31,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-11-18",
+  "beruf": "Jurist/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-065157553-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
   "id": "12288-4996079612-S",
   "titel": "IT-Consultant (m/w/d)",
   "firma": "S-Management Services GmbH",
@@ -2116,7 +2598,7 @@
   "ort": "70565 Stuttgart",
   "entfernung_km": 32,
   "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-12",
+  "eintritt": "2026-11-19",
   "beruf": "IT-Compliance-Consultant",
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
@@ -2170,6 +2652,26 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "12633-6b80b6ba_JB5300522-S",
+  "titel": "Supply Chain Manager (m/w/d)",
+  "firma": "DIS AG Industrie",
+  "ort": "76131 Karlsruhe, Baden",
+  "entfernung_km": 32,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-11-18",
+  "beruf": "Supply-Chain-Manager/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12633-6b80b6ba_JB5300522-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
   "id": "12265-486649_JB5293767-S",
   "titel": "Ingenieur Produkt- und Prozessindustrialisierung (m/w/d)",
   "firma": "FERCHAU GmbH Niederlassung Stuttgart Mobility",
@@ -2190,50 +2692,6 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
-  "id": "19913-3079521793833201-S",
-  "titel": "NTT DATA Deutschland SE: AI Go-to-Market Large Deal Seller (w/m/x)",
-  "firma": "NTT DATA Deutschland SE",
-  "ort": "76275 Ettlingen",
-  "entfernung_km": 33,
-  "veroeffentlicht": "2026-11-05",
-  "eintritt": "2026-11-17",
-  "beruf": "KI-Manager/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3079521793833201-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Junior Consultant",
-   "IT Consultant",
-   "KI Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "15086-44549549-113-S",
-  "titel": "IT Consultant - Modern Datacenter (w/m/d)",
-  "firma": "Bechtle AG",
-  "ort": "70567 Stuttgart",
-  "entfernung_km": 33,
-  "veroeffentlicht": "2026-11-04",
-  "eintritt": "2026-11-04",
-  "beruf": "IT-Berater/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44549549-113-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Consultant Digitalisierung",
-   "IT Consultant",
-   "ERP Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "19913-2809811793919601-S",
   "titel": "NTT DATA Deutschland SE: Consultant DevSecOps/Application Security (w/m/x)",
   "firma": "NTT DATA Deutschland SE",
@@ -2247,27 +2705,6 @@
   "score": 2,
   "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-2809811793919601-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "IT Consultant",
-   "KI Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "19913-3082371793833201-S",
-  "titel": "NTT DATA Deutschland SE: Technical Consultant (w/m/x) Cyber Defense mit Fokus Continuous Threat Expo",
-  "firma": "NTT DATA Deutschland SE",
-  "ort": "76275 Ettlingen",
-  "entfernung_km": 33,
-  "veroeffentlicht": "2026-11-05",
-  "eintritt": "2026-11-17",
-  "beruf": "Cyber-Security-Consultant",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3082371793833201-S",
   "link_extern": null,
   "suchbegriffe": [
    "IT Consultant",
@@ -2623,7 +3060,7 @@
   "ort": "73728 Esslingen am Neckar",
   "entfernung_km": 40,
   "veroeffentlicht": "2026-11-11",
-  "eintritt": "2026-11-11",
+  "eintritt": "2026-11-18",
   "beruf": "Personaldienstleistungskaufmann/-frau",
   "gehalt": "44.000.0–47.000.0 €",
   "befristung": "UNBEFRISTET",
@@ -2704,7 +3141,7 @@
   "ort": "69190 Walldorf, Baden",
   "entfernung_km": 42,
   "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-17",
+  "eintritt": "2026-11-18",
   "beruf": "IT-Berater/in",
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
@@ -2726,7 +3163,7 @@
   "ort": "69190 Walldorf, Baden",
   "entfernung_km": 42,
   "veroeffentlicht": "2026-11-05",
-  "eintritt": "2026-11-16",
+  "eintritt": "2026-11-18",
   "beruf": "Wirtschaftsingenieur/in",
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
@@ -3062,25 +3499,27 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
-  "id": "15548-1650634-1-S",
-  "titel": "Manager Digital Risk - Consulting (Financial Services) (w/m/d)",
-  "firma": "EY Consulting GmbH",
-  "ort": "70629 Stuttgart",
-  "entfernung_km": 38,
-  "veroeffentlicht": "2026-11-04",
-  "eintritt": "2026-11-06",
-  "beruf": "Betriebswirt/in (Hochschule)",
+  "id": "18989-984547609-S",
+  "titel": "Consultant Public Health - Schwerpunkt Healthcare Digitalisierung & KI (w/m/d)",
+  "firma": "PricewaterhouseCoopers GmbH WPG",
+  "ort": "68163 Mannheim",
+  "entfernung_km": 64,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "ERP-Berater/in - ERP-Consultant",
   "gehalt": null,
   "befristung": "UNBEFRISTET",
-  "score": 1,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1650634-1-S",
+  "score": 7,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18989-984547609-S",
   "link_extern": null,
   "suchbegriffe": [
-   "Prozessautomatisierung",
-   "Künstliche Intelligenz Prozesse"
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "KI Consultant",
+   "ERP Consultant"
   ],
-  "erstmals_gesehen": "2026-11-16"
+  "erstmals_gesehen": "2026-11-19"
  },
  {
   "id": "10001-1003999101-S",
@@ -3287,26 +3726,24 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
-  "id": "12054-7H05MOE6A2BTZ93F-S",
-  "titel": "Supply Chain Solutions Consultant (m/w/d) in Direktvermittlung",
-  "firma": "temPERSO Rummel & Glass GmbH",
-  "ort": "74653 Künzelsau",
-  "entfernung_km": 74,
-  "veroeffentlicht": "2026-11-04",
-  "eintritt": "2026-11-04",
-  "beruf": "Supply-Chain-Manager/in",
-  "gehalt": "55.000.0–85.000.0 €",
-  "befristung": "UNBEFRISTET",
+  "id": "10000-1208709653-S",
+  "titel": "Software Developer (all genders) Prozessautomatisierung & KI",
+  "firma": "Almato AG",
+  "ort": "72764 Reutlingen",
+  "entfernung_km": 58,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-11-18",
+  "beruf": "Softwareentwickler/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
   "score": 4,
   "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12054-7H05MOE6A2BTZ93F-S",
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208709653-S",
   "link_extern": null,
   "suchbegriffe": [
-   "IT Consultant",
-   "Supply Chain",
-   "ERP Consultant"
+   "Prozessautomatisierung"
   ],
-  "erstmals_gesehen": "2026-11-16"
+  "erstmals_gesehen": "2026-11-19"
  },
  {
   "id": "13645-287885-S",
@@ -3431,6 +3868,26 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "15284-k44754.66403-S",
+  "titel": "F&B Management Trainee (m/w/d)",
+  "firma": "Findehotelpersonal GmbH",
+  "ort": "72250 Freudenstadt",
+  "entfernung_km": 62,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-11-19",
+  "beruf": "Hotelfachmann/-frau",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15284-k44754.66403-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Trainee"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
   "id": "12438-13924533-S",
   "titel": "(Junior) Steuerfachwirt / Steuerreferent (m/w/d)",
   "firma": "expertum GmbH",
@@ -3493,6 +3950,26 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "17510-23XWX3JO5C1QEUIR-S",
+  "titel": "Trainee Personalmanagement (m/w/d)",
+  "firma": "IMPACT GmbH WO Flexible Personalsysteme",
+  "ort": "67547 Worms",
+  "entfernung_km": 84,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-12-01",
+  "beruf": "Personalberater/in",
+  "gehalt": "33.600.0–36.000.0 €",
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17510-23XWX3JO5C1QEUIR-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Trainee"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
   "id": "12511-2021X0000029249-S",
   "titel": "Trainee Sales (m/w/d) - B2C",
   "firma": "Berufsstarter.eu",
@@ -3529,26 +4006,6 @@
   "link_extern": null,
   "suchbegriffe": [
    "Trainee"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "12634-BB-646836-7878-4865-S",
-  "titel": "Testmanager Software & Automatisierung (m/w/d)",
-  "firma": "Akkodis Germany Tech Experts GmbH",
-  "ort": "73447 Oberkochen",
-  "entfernung_km": 94,
-  "veroeffentlicht": "2026-11-04",
-  "eintritt": "2026-11-04",
-  "beruf": "Software-Architect",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 3,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12634-BB-646836-7878-4865-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Testmanager"
   ],
   "erstmals_gesehen": "2026-11-16"
  },
@@ -3682,7 +4139,7 @@
   "ort": "76879 Bornheim, Pfalz",
   "entfernung_km": 58,
   "veroeffentlicht": "2026-11-17",
-  "eintritt": "2026-11-17",
+  "eintritt": "2026-11-18",
   "beruf": "Informatiker/in",
   "gehalt": "55.000.0–70.000.0 €",
   "befristung": "UNBEFRISTET",
@@ -3723,7 +4180,7 @@
   "ort": "76879 Bornheim, Pfalz",
   "entfernung_km": 58,
   "veroeffentlicht": "2026-11-17",
-  "eintritt": "2026-11-17",
+  "eintritt": "2026-11-18",
   "beruf": "Kaufmann/-frau - Digitalisierungsmanagement",
   "gehalt": "54.000.0–70.000.0 €",
   "befristung": "UNBEFRISTET",
@@ -3743,7 +4200,7 @@
   "ort": "68526 Ladenburg",
   "entfernung_km": 62,
   "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-11",
+  "eintritt": "2026-11-18",
   "beruf": "Prozessmanager/in - Produktionstechnologie",
   "gehalt": null,
   "befristung": "UNBEFRISTET",
@@ -3997,6 +4454,26 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "12288-5004308263-S",
+  "titel": "Business Analyst Wertermittlung & Pfandbriefrefinanzierung (m/w/d)",
+  "firma": "Bausparkasse Schwäbisch Hall AG",
+  "ort": "74523 Schwäbisch Hall",
+  "entfernung_km": 67,
+  "veroeffentlicht": "2026-11-19",
+  "eintritt": "2026-11-20",
+  "beruf": "Business-Analyst/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5004308263-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Business Analyst"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
   "id": "10001-1003979716-S",
   "titel": "Projektmanager (m/w/d/x) Direkteinstellung",
   "firma": "Speer GmbH & Co. KG",
@@ -4118,26 +4595,6 @@
   "erstmals_gesehen": "2026-11-18"
  },
  {
-  "id": "12054-PMRVCUDCS0SJVSRG-S",
-  "titel": "Supply Chain Manager (m/w/d) in Direktvermittlung",
-  "firma": "temPERSO Rummel & Glass GmbH",
-  "ort": "74653 Künzelsau",
-  "entfernung_km": 74,
-  "veroeffentlicht": "2026-11-04",
-  "eintritt": "2026-11-04",
-  "beruf": "Supply-Chain-Manager/in",
-  "gehalt": "50.000.0–78.000.0 €",
-  "befristung": "UNBEFRISTET",
-  "score": 2,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12054-PMRVCUDCS0SJVSRG-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Supply Chain"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "10000-1208560119-S",
   "titel": "IT-Prozessmanager (m/w/d)",
   "firma": "Gesundheitszentrum Odenwaldkreis GmbH",
@@ -4184,7 +4641,7 @@
   "ort": "64625 Bensheim",
   "entfernung_km": 83,
   "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-17",
+  "eintritt": "2026-11-18",
   "beruf": "Kaufmann/-frau - E-Commerce",
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
@@ -4218,13 +4675,33 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "10001-1004031462-S",
+  "titel": "Specialist Supply Chain Packaging (m/w/d)",
+  "firma": "Röchling Automotive Germany SE & Co. KG",
+  "ort": "67547 Worms",
+  "entfernung_km": 83,
+  "veroeffentlicht": "2026-11-18",
+  "eintritt": "2026-11-18",
+  "beruf": "Speditionskaufmann/-frau",
+  "gehalt": "47.038.0–56.008.0 €",
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004031462-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-19"
+ },
+ {
   "id": "10001-1003991391-S",
   "titel": "Prozessingenieur (m/­w/­d) Produktion",
   "firma": "FERCHAU GmbH Niederlassung Freiburg",
   "ort": "Offenburg",
   "entfernung_km": 84,
   "veroeffentlicht": "2026-11-10",
-  "eintritt": "2026-11-10",
+  "eintritt": "2026-11-18",
   "beruf": "Wirtschaftsingenieur/in",
   "gehalt": "52.000.0–68.000.0 €",
   "befristung": "UNBEFRISTET",
@@ -4340,26 +4817,6 @@
    "IT Consultant"
   ],
   "erstmals_gesehen": "2026-11-18"
- },
- {
-  "id": "10001-1003964993-S",
-  "titel": "Prozessentwickler – Integration von Modulen und Systemen (m/w/d) 1111-652",
-  "firma": "PAPEVE GmbH Der Spezialist für Ingenieure Techniker und Fachpersonal",
-  "ort": "Aalen, Württemberg",
-  "entfernung_km": 93,
-  "veroeffentlicht": "2026-11-04",
-  "eintritt": "2026-11-04",
-  "beruf": "Ingenieur/in - Maschinenbau",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 2,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003964993-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Prozessmanager"
-  ],
-  "erstmals_gesehen": "2026-11-16"
  },
  {
   "id": "12265-508933_JB5300306-S",
@@ -4489,7 +4946,7 @@
   "ort": "64297 Darmstadt",
   "entfernung_km": 98,
   "veroeffentlicht": "2026-11-13",
-  "eintritt": "2026-11-13",
+  "eintritt": "2026-11-18",
   "beruf": "Elektroniker/in - Automatisierungstechnik (Handwerk)",
   "gehalt": null,
   "befristung": "UNBEFRISTET",
@@ -4683,26 +5140,6 @@
   "link_extern": null,
   "suchbegriffe": [
    "ERP Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "13645-287727-S",
-  "titel": "Test Engineer (m/w/d)",
-  "firma": "RECARO",
-  "ort": "74523 Schwäbisch Hall",
-  "entfernung_km": 68,
-  "veroeffentlicht": "2026-11-08",
-  "eintritt": "2026-11-08",
-  "beruf": "Ingenieur/in - Maschinenbau",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 1,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-287727-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Wirtschaftsingenieur"
   ],
   "erstmals_gesehen": "2026-11-16"
  },
