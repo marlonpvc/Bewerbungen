@@ -14,7 +14,7 @@ Suchprofil ändern: `config.yaml` bearbeiten und committen.
 Tech: Python, requests, GitHub Actions, Bundesagentur-für-Arbeit-Jobsuche-API, Claude.
 
 <!-- JOBS:START -->
-_Stand 2026-11-21: 206 passende Stellen, 15 neu seit dem letzten Lauf._
+_Stand 2026-11-22: 203 passende Stellen, 2 neu seit dem letzten Lauf._
 
 ## Top-Treffer
 
@@ -24,7 +24,6 @@ _Stand 2026-11-21: 206 passende Stellen, 15 neu seit dem letzten Lauf._
 |---|---|---|---|---|---|
 | 8 | [#AHS2601 / Absolvent*in / Junior Projektmanager*in (m/w/d) in der Projektsteuerung](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996081557-S) | THOST Projektmanagement GmbH | 76135 Karlsruhe, Baden | 35 | 2026-11-12 |
 | 7 | [Prozess- & Business Analyst Digitalisierung Hochspannung (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR302112_1479CS-S) | Brunel GmbH NL Mannheim | Stuttgart | 30 | 2026-11-09 |
-| 7 | [Junior NetSuite Consultant Digitized Processes (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-186546-S) | PROMATIS software | 76275 Ettlingen | 33 | 2026-11-17 |
 | 6 | [IT Automation Engineer (m/w/d) - Schwerpunkt Prozessautomatisierung, KI & M365](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996060662-S) | Gustav Baehr GmbH | 71332 Waiblingen, Rems | 36 | 2026-11-12 |
 | 6 | [Junior Prozessmanager Logistik (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-ca6be18691309814-S) | Lidl Dienstleistung GmbH & Co. KG | 74206 Bad Wimpfen | 38 | 2026-11-09 |
 | 5 | [Junior Consultant (m/w/d) e-Government / e-Akte](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004048015-S) | ANG GmbH | 75172 Pforzheim | 13 | 2026-11-20 |
@@ -45,7 +44,6 @@ _Stand 2026-11-21: 206 passende Stellen, 15 neu seit dem letzten Lauf._
 | 5 | [(Junior) Consultant (m/w/d) Corporate Finance & M&A - Energie und Infrastruktur in Stuttgart](https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-54597-YF-S) | Becker Büttner Held Rechtsanwälte Steuerberater Unternehmensberater PartGmbB | 70565 Stuttgart | 32 | 2026-11-19 |
 | 5 | [MINT-Absolvent als Business Analyst (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15719-44579879-1118-S) | Allianz Deutschland AG | 70565 Stuttgart | 32 | 2026-11-19 |
 | 5 | [Projektmanager (m/w/d) Logistik & Supply Chain](https://www.arbeitsagentur.de/jobsuche/jobdetail/15006-k40180.6293-S) | prognum Automotive GmbH | 76131 Karlsruhe, Baden | 32 | 2026-11-16 |
-| 5 | [Junior Consultant Data Analytics (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-143578-S) | PROMATIS software | 76275 Ettlingen | 33 | 2026-11-17 |
 | 5 | [Citizen Developer & Consultant Dynamics 365 CRM & Power Platform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-298094-S) | Objektkultur Software | 76133 Karlsruhe, Baden | 34 | 2026-11-17 |
 | 5 | [Junior Consultant HR Dokumentenmanagement (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-521218_JB5297886-S) | FERCHAU GmbH Niederlassung Heilbronn | 74172 Neckarsulm | 40 | 2026-11-13 |
 | 5 | [Junior Consultant IT-Risk & Compliance (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-309312-S) | Schwarz Digits | 74172 Neckarsulm | 40 | 2026-11-17 |
@@ -60,6 +58,7 @@ _Stand 2026-11-21: 206 passende Stellen, 15 neu seit dem letzten Lauf._
 | 4 | [Consultant (m/w/d) Microsoft Dynamics 365 FSCM (Schwerpunkt Supply Chain Management)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-307153-S) | MODUS Consult | 70173 Stuttgart | 30 | 2026-11-17 |
 | 4 | [Data & AI Business Analyst Lieferantenregress (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12634-BB-647173-7878-1953-S) | Akkodis Germany Tech Experts GmbH | 70173 Stuttgart | 30 | 2026-11-13 |
 | 4 | [Junior Testmanager (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-295787-S) | Sogeti – Part of Capgemini | 70173 Stuttgart | 30 | 2026-11-17 |
+| 4 | [DACH Consultant Digitized Processes - SCM & Logistics Operations - Ettlingen](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-314942-S) | PROMATIS software | 76275 Ettlingen | 33 | 2026-11-21 |
 | 4 | [AI Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15307-1594-1804056-0-S) | MLP Finanzberatung SE | 69168 Wiesloch | 41 | 2026-11-16 |
 | 3 | [Junior CRM / Marketing Manager (HubSpot) (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12781-16425445-KAL-S) | Nussbaum Medien | 71263 Weil der Stadt | 21 | 2026-11-10 |
 | 3 | [Controller m/w/d - European Logistik & Supply Chain](https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007661770-S) | Pentagon GmbH | 71638 Ludwigsburg, Württemberg | 27 | 2026-11-16 |
@@ -82,4 +81,5 @@ _Stand 2026-11-21: 206 passende Stellen, 15 neu seit dem letzten Lauf._
 | 2 | [IT-Systems Engineer / Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-312571-S) | Inneo | 71277 Rutesheim | 16 | 2026-11-17 |
 | 2 | [IT-Systems Engineer/ Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-296000-S) | Inneo | 71277 Rutesheim | 16 | 2026-11-17 |
 | 2 | [IT-Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-SDE-134326-STA-S) | ITventive AG | 71634 Ludwigsburg, Württemberg | 24 | 2026-11-19 |
+| 2 | [Planungsingenieur Produktion und Logistik Automotive (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-484348_JB5297442-S) | Ferchau  GmbH | 70435 Stuttgart | 26 | 2026-11-13 |
 <!-- JOBS:END -->

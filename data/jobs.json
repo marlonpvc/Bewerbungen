@@ -40,27 +40,6 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
-  "id": "13644-186546-S",
-  "titel": "Junior NetSuite Consultant Digitized Processes (m/w/d)",
-  "firma": "PROMATIS software",
-  "ort": "76275 Ettlingen",
-  "entfernung_km": 33,
-  "veroeffentlicht": "2026-11-17",
-  "eintritt": "2026-11-18",
-  "beruf": "IT-Berater/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 7,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-186546-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Junior Consultant",
-   "IT Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-18"
- },
- {
   "id": "12288-4996060662-S",
   "titel": "IT Automation Engineer (m/w/d) - Schwerpunkt Prozessautomatisierung, KI & M365",
   "firma": "Gustav Baehr GmbH",
@@ -473,28 +452,6 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
-  "id": "13644-143578-S",
-  "titel": "Junior Consultant Data Analytics (m/w/d)",
-  "firma": "PROMATIS software",
-  "ort": "76275 Ettlingen",
-  "entfernung_km": 33,
-  "veroeffentlicht": "2026-11-17",
-  "eintritt": "2026-11-18",
-  "beruf": "IT-Berater/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 5,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-143578-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Junior Consultant",
-   "IT Consultant",
-   "Business Analyst"
-  ],
-  "erstmals_gesehen": "2026-11-18"
- },
- {
   "id": "13644-298094-S",
   "titel": "Citizen Developer & Consultant Dynamics 365 CRM & Power Platform (m/w/d)",
   "firma": "Objektkultur Software",
@@ -779,6 +736,26 @@
    "Testmanager"
   ],
   "erstmals_gesehen": "2026-11-18"
+ },
+ {
+  "id": "13644-314942-S",
+  "titel": "DACH Consultant Digitized Processes - SCM & Logistics Operations - Ettlingen",
+  "firma": "PROMATIS software",
+  "ort": "76275 Ettlingen",
+  "entfernung_km": 33,
+  "veroeffentlicht": "2026-11-21",
+  "eintritt": "2026-11-21",
+  "beruf": "IT-Berater/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 4,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-314942-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-22"
  },
  {
   "id": "15307-1594-1804056-0-S",
@@ -1221,26 +1198,6 @@
    "IT Consultant"
   ],
   "erstmals_gesehen": "2026-11-20"
- },
- {
-  "id": "13644-294807-S",
-  "titel": "Solution Consultant S/4HANA Finance (w/m/d)",
-  "firma": "SEW Eurodrive",
-  "ort": "76646 Bruchsal",
-  "entfernung_km": 26,
-  "veroeffentlicht": "2026-11-17",
-  "eintritt": "2026-11-18",
-  "beruf": "IT-Berater/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-294807-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "IT Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-18"
  },
  {
   "id": "12265-484348_JB5297442-S",
@@ -1858,7 +1815,7 @@
   "ort": "70565 Stuttgart",
   "entfernung_km": 32,
   "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-17",
+  "eintritt": "2026-11-22",
   "beruf": "IT-Compliance-Consultant",
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
@@ -1892,6 +1849,26 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "11956-2914601794438001-S",
+  "titel": "SoftwareOne Deutschland GmbH: M365 Consultant (gn) Modern Workplace Compliance",
+  "firma": "SoftwareOne Deutschland GmbH",
+  "ort": "70565 Stuttgart",
+  "entfernung_km": 32,
+  "veroeffentlicht": "2026-11-12",
+  "eintritt": "2026-11-22",
+  "beruf": "IT-Compliance-Consultant",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2914601794438001-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-16"
+ },
+ {
   "id": "11956-2914731794438001-S",
   "titel": "SoftwareOne Deutschland GmbH: Microsoft Purview Consultant (gn) Information Protection & Compliance",
   "firma": "SoftwareOne Deutschland GmbH",
@@ -1905,26 +1882,6 @@
   "score": 2,
   "erweitert": false,
   "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2914731794438001-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "IT Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "11956-2914601794438001-S",
-  "titel": "SoftwareOne Deutschland GmbH: M365 Consultant (gn) Modern Workplace Compliance",
-  "firma": "SoftwareOne Deutschland GmbH",
-  "ort": "70565 Stuttgart",
-  "entfernung_km": 32,
-  "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-17",
-  "beruf": "IT-Compliance-Consultant",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2914601794438001-S",
   "link_extern": null,
   "suchbegriffe": [
    "IT Consultant"
@@ -2414,27 +2371,6 @@
   "link_extern": null,
   "suchbegriffe": [
    "Künstliche Intelligenz Prozesse"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "15086-44557512-116-S",
-  "titel": "Procurement Process Manager (w/m/d)",
-  "firma": "Bechtle AG",
-  "ort": "74172 Neckarsulm",
-  "entfernung_km": 40,
-  "veroeffentlicht": "2026-11-07",
-  "eintritt": "2026-11-07",
-  "beruf": "IT-Einkäufer/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44557512-116-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Künstliche Intelligenz Prozesse",
-   "Supply Chain"
   ],
   "erstmals_gesehen": "2026-11-16"
  },
@@ -3032,7 +2968,7 @@
   "id": "12438-13924533-S",
   "titel": "(Junior) Steuerfachwirt / Steuerreferent (m/w/d)",
   "firma": "expertum GmbH",
-  "ort": "74632 Neuenstein, Württemberg",
+  "ort": "74638 Waldenburg, Württemberg",
   "entfernung_km": 63,
   "veroeffentlicht": "2026-11-12",
   "eintritt": "2027-01-04",
@@ -3091,26 +3027,6 @@
   "erstmals_gesehen": "2026-11-21"
  },
  {
-  "id": "12511-2021X0000029249-S",
-  "titel": "Trainee Sales (m/w/d) - B2C",
-  "firma": "Berufsstarter.eu",
-  "ort": "78713 Schramberg",
-  "entfernung_km": 85,
-  "veroeffentlicht": "2026-11-17",
-  "eintritt": "2026-11-17",
-  "beruf": "Außendienstmitarbeiter/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 3,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12511-2021X0000029249-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Trainee"
-  ],
-  "erstmals_gesehen": "2026-11-17"
- },
- {
   "id": "12908-065020019-S",
   "titel": "Trainee Private Banking (m/w/d)",
   "firma": "Kreissparkasse Ostalb",
@@ -3129,6 +3045,28 @@
    "Trainee"
   ],
   "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1004051219-S",
+  "titel": "Prozessverantwortlicher (m/w/d) in der Logistik",
+  "firma": "SimpleXX GmbH",
+  "ort": "73447 Oberkochen",
+  "entfernung_km": 94,
+  "veroeffentlicht": "2026-11-21",
+  "eintritt": "2026-11-21",
+  "beruf": "Prozessmanager/in - Produktionstechnologie",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004051219-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager",
+   "Prozessautomatisierung",
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-22"
  },
  {
   "id": "10001-1003990414-S",
