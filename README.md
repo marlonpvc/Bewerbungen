@@ -14,7 +14,7 @@ Suchprofil ändern: `config.yaml` bearbeiten und committen.
 Tech: Python, requests, GitHub Actions, Bundesagentur-für-Arbeit-Jobsuche-API, Claude.
 
 <!-- JOBS:START -->
-_Stand 2026-11-22: 203 passende Stellen, 2 neu seit dem letzten Lauf._
+_Stand 2026-11-23: 209 passende Stellen, 10 neu seit dem letzten Lauf._
 
 ## Top-Treffer
 
@@ -23,6 +23,7 @@ _Stand 2026-11-22: 203 passende Stellen, 2 neu seit dem letzten Lauf._
 | Score | Stelle | Firma | Ort | km | Veröffentlicht |
 |---|---|---|---|---|---|
 | 8 | [#AHS2601 / Absolvent*in / Junior Projektmanager*in (m/w/d) in der Projektsteuerung](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996081557-S) | THOST Projektmanagement GmbH | 76135 Karlsruhe, Baden | 35 | 2026-11-12 |
+| 7 | [Junior Consultant - Projektmgmt / Prozesse / Software (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5008043566-S) | Workwise GmbH | 70192 Stuttgart | 29 | 2026-11-23 |
 | 7 | [Prozess- & Business Analyst Digitalisierung Hochspannung (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR302112_1479CS-S) | Brunel GmbH NL Mannheim | Stuttgart | 30 | 2026-11-09 |
 | 6 | [IT Automation Engineer (m/w/d) - Schwerpunkt Prozessautomatisierung, KI & M365](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996060662-S) | Gustav Baehr GmbH | 71332 Waiblingen, Rems | 36 | 2026-11-12 |
 | 6 | [Junior Prozessmanager Logistik (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-ca6be18691309814-S) | Lidl Dienstleistung GmbH & Co. KG | 74206 Bad Wimpfen | 38 | 2026-11-09 |
@@ -47,7 +48,9 @@ _Stand 2026-11-22: 203 passende Stellen, 2 neu seit dem letzten Lauf._
 | 5 | [Citizen Developer & Consultant Dynamics 365 CRM & Power Platform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-298094-S) | Objektkultur Software | 76133 Karlsruhe, Baden | 34 | 2026-11-17 |
 | 5 | [Junior Consultant HR Dokumentenmanagement (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-521218_JB5297886-S) | FERCHAU GmbH Niederlassung Heilbronn | 74172 Neckarsulm | 40 | 2026-11-13 |
 | 5 | [Junior Consultant IT-Risk & Compliance (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-309312-S) | Schwarz Digits | 74172 Neckarsulm | 40 | 2026-11-17 |
+| 5 | [Junior Financial Consultant - Kundenaufbau / Finanzkonzepte (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5009123673-S) | MLP Finanzberatung SE | 69168 Wiesloch | 40 | 2026-11-23 |
 | 5 | [Junior Cybersecurity Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-310177-S) | BRANDMAUER IT | 76756 Bellheim | 49 | 2026-11-17 |
+| 5 | [IT-Projektmanager - Digitalisierung (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5009148322-S) | DIS AG Germany | 69124 Heidelberg, Neckar | 50 | 2026-11-23 |
 | 5 | [Technischer Fachplaner / Projektmanager Events Junior (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-53252-YF-S) | United Network Development GmbH & Co. KG | 69124 Heidelberg, Neckar | 50 | 2026-11-09 |
 | 4 | [KI-Prozessberater (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004047973-S) | ANG GmbH | 75172 Pforzheim | 13 | 2026-11-20 |
 | 4 | [Entwickler (m/w/d) Robotic Process Automation](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5001700734-S) | Serviscope AG | 76227 Karlsruhe, Baden | 28 | 2026-11-17 |
@@ -74,12 +77,9 @@ _Stand 2026-11-22: 203 passende Stellen, 2 neu seit dem letzten Lauf._
 | 3 | [Trainee Postproduction Videoschnitte & Grafik (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004034774-S) | Sidney R. Wolff Partner für Gemeinschaftsverpf | 74626 Bretzfeld | 48 | 2026-11-18 |
 | 2 | [Technical Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-299795-S) | WidasConcepts | 71299 Wimsheim | 11 | 2026-11-17 |
 | 2 | [Business Process Manager (m/w/d) Finance/Controlling, befristet](https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-53319-YF-S) | Witzenmann GmbH | 75175 Pforzheim | 11 | 2026-11-09 |
-| 2 | [Projektmanager Vertrieb und Projektmanagement m/w/d](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004015504-S) | TeamPower Personaldienstleistungs GmbH | 75175 Pforzheim | 11 | 2026-11-14 |
+| 2 | [Projektmanager Vertrieb und Projektmanagement m/w/d](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004051566-S) | TeamPower Personaldienstleistungs GmbH | 75175 Pforzheim | 11 | 2026-11-22 |
 | 2 | [Consultant IT-Security (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004048110-S) | ANG GmbH | 75172 Pforzheim | 13 | 2026-11-20 |
 | 2 | [Supply Chain Manager (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996062436-S) | DIS AG Germany | 75172 Pforzheim | 13 | 2026-11-12 |
 | 2 | [Prozess-, Risiko- und Qualitätsmanager (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004047905-S) | ANG GmbH | 75172 Pforzheim | 13 | 2026-11-20 |
 | 2 | [IT-Systems Engineer / Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-312571-S) | Inneo | 71277 Rutesheim | 16 | 2026-11-17 |
-| 2 | [IT-Systems Engineer/ Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-296000-S) | Inneo | 71277 Rutesheim | 16 | 2026-11-17 |
-| 2 | [IT-Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-SDE-134326-STA-S) | ITventive AG | 71634 Ludwigsburg, Württemberg | 24 | 2026-11-19 |
-| 2 | [Planungsingenieur Produktion und Logistik Automotive (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-484348_JB5297442-S) | Ferchau  GmbH | 70435 Stuttgart | 26 | 2026-11-13 |
 <!-- JOBS:END -->
