@@ -1,5 +1,28 @@
 [
  {
+  "id": "10001-1004058242-S",
+  "titel": "(Junior) Consultant Digitalisierung & Prozesse im Public Sector (m/w/d)",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 10,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058242-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
   "id": "12288-4996081557-S",
   "titel": "#AHS2601 | Absolvent*in / Junior Projektmanager*in (m/w/d) in der Projektsteuerung",
   "firma": "THOST Projektmanagement GmbH",
@@ -41,24 +64,111 @@
   "erstmals_gesehen": "2026-11-23"
  },
  {
-  "id": "12362-TR302112_1479CS-S",
-  "titel": "Prozess- & Business Analyst Digitalisierung Hochspannung (w/m/d)",
-  "firma": "Brunel GmbH NL Mannheim",
-  "ort": "Stuttgart",
+  "id": "10001-1004058235-S",
+  "titel": "(Junior) Consultant Generative AI (m/w/d)",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
   "entfernung_km": 30,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Business-Analyst/in",
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 7,
   "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR302112_1479CS-S",
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058235-S",
   "link_extern": null,
   "suchbegriffe": [
-   "Business Analyst"
+   "Junior Consultant"
   ],
-  "erstmals_gesehen": "2026-11-16"
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
+  "id": "10001-1004058318-S",
+  "titel": "(Junior) Consultant Supply Chain Management (m/w/d)",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 7,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058318-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "IT Consultant",
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
+  "id": "10001-1004058261-S",
+  "titel": "(Junior) Consultant Digitale Lösungen (m/w/d)",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 6,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058261-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "Consultant Digitalisierung",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
+  "id": "10001-1004058306-S",
+  "titel": "(Junior) Consultant Digital Transformation Banking (m/w/d)",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 6,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058306-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "Consultant Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
+  "id": "10001-1004058264-S",
+  "titel": "(Junior) Consultant Digital Marketing, Sales & Customer Services (m/w/d)",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 6,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058264-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "Consultant Digitalisierung",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "12288-4996060662-S",
@@ -77,26 +187,6 @@
   "link_extern": null,
   "suchbegriffe": [
    "Prozessautomatisierung"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "19220-ca6be18691309814-S",
-  "titel": "Junior Prozessmanager Logistik (m/w/d)",
-  "firma": "Lidl Dienstleistung GmbH & Co. KG",
-  "ort": "74206 Bad Wimpfen",
-  "entfernung_km": 38,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Assistent/in - Logistik",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 6,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-ca6be18691309814-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Prozessmanager"
   ],
   "erstmals_gesehen": "2026-11-16"
  },
@@ -246,6 +336,48 @@
   "erstmals_gesehen": "2026-11-21"
  },
  {
+  "id": "10001-1004058292-S",
+  "titel": "(Junior) Consultant Datenmanagement / Facility Management (m/w/d)",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 5,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058292-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "Consultant Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
+  "id": "10001-1004057406-S",
+  "titel": "(Junior) Consultant IT Service Management (m/w/d)",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 5,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004057406-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
   "id": "13884-168234-S",
   "titel": "Junior Consultant (m/w/d) Bereich Asset- und Risikomanag ...",
   "firma": "Preyer GmbH",
@@ -285,6 +417,50 @@
    "IT Consultant"
   ],
   "erstmals_gesehen": "2026-11-18"
+ },
+ {
+  "id": "10001-1004058316-S",
+  "titel": "(Junior) Consultant | Anti-Financial Crime & Compliance (m/w/d)",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 5,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058316-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
+  "id": "10001-1004057313-S",
+  "titel": "(Junior) Consultant Microsoft | Modern Work & Cloud (m/w/d)",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 5,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004057313-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "13644-290809-S",
@@ -515,25 +691,25 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
-  "id": "13644-309312-S",
-  "titel": "Junior Consultant IT-Risk & Compliance (m/w/d)",
-  "firma": "Schwarz Digits",
-  "ort": "74172 Neckarsulm",
+  "id": "10001-1004052076-S",
+  "titel": "(Junior) Consultant IT-Risk & Compliance (m/w/d)",
+  "firma": "Halbauer GmbH",
+  "ort": "Neckarsulm",
   "entfernung_km": 40,
-  "veroeffentlicht": "2026-11-17",
-  "eintritt": "2026-11-18",
-  "beruf": "IT-Berater/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Wirtschaftsinformatiker/in (Fachschule)/Bachelor Professional in Wirtschaft",
+  "gehalt": "60.000–75.000 €",
+  "befristung": "BEFRISTET",
   "score": 5,
   "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-309312-S",
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004052076-S",
   "link_extern": null,
   "suchbegriffe": [
    "Junior Consultant",
    "IT Consultant"
   ],
-  "erstmals_gesehen": "2026-11-18"
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "12288-5009123673-S",
@@ -595,26 +771,6 @@
    "Projektmanager Digitalisierung"
   ],
   "erstmals_gesehen": "2026-11-23"
- },
- {
-  "id": "12117-YF-53252-YF-S",
-  "titel": "Technischer Fachplaner / Projektmanager Events Junior (m/w/d)",
-  "firma": "United Network Development GmbH & Co. KG",
-  "ort": "69124 Heidelberg, Neckar",
-  "entfernung_km": 50,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Projektleiter/in / Projektmanager/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 5,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-53252-YF-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Junior Projektmanager"
-  ],
-  "erstmals_gesehen": "2026-11-16"
  },
  {
   "id": "10001-1004047973-S",
@@ -840,6 +996,26 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "12265-326077_JB5303882-S",
+  "titel": "(Junior) Projektleiter Elektrotechnik (m/w/d)",
+  "firma": "FERCHAU GmbH Niederlassung Heilbronn",
+  "ort": "74321 Bietigheim-Bissingen",
+  "entfernung_km": 20,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Projektleiter/in / Projektmanager/in",
+  "gehalt": "60.000.0–70.000.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 3,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-326077_JB5303882-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Projektmanager"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
   "id": "12781-16425445-KAL-S",
   "titel": "Junior CRM / Marketing Manager (HubSpot) (m/w/d)",
   "firma": "Nussbaum Medien",
@@ -856,26 +1032,6 @@
   "link_extern": null,
   "suchbegriffe": [
    "Junior Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "12513-0007661770-S",
-  "titel": "Controller m/w/d - European Logistik & Supply Chain",
-  "firma": "Pentagon GmbH",
-  "ort": "71638 Ludwigsburg, Württemberg",
-  "entfernung_km": 27,
-  "veroeffentlicht": "2026-11-16",
-  "eintritt": "2026-11-16",
-  "beruf": "Fachwirt/in - Recht",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 3,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007661770-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Supply Chain"
   ],
   "erstmals_gesehen": "2026-11-16"
  },
@@ -898,6 +1054,26 @@
    "IT Consultant"
   ],
   "erstmals_gesehen": "2026-11-18"
+ },
+ {
+  "id": "13645-286815-S",
+  "titel": "Prozessmanager Bau & Lean Construction (m/w/d)",
+  "firma": "MPS Bauplanung",
+  "ort": "70173 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Ingenieur/in - Bau",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 3,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-286815-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "12117-YF-54374-YF-S",
@@ -1100,26 +1276,6 @@
   "erstmals_gesehen": "2026-11-18"
  },
  {
-  "id": "12117-YF-53319-YF-S",
-  "titel": "Business Process Manager (m/w/d) Finance/Controlling, befristet",
-  "firma": "Witzenmann GmbH",
-  "ort": "75175 Pforzheim",
-  "entfernung_km": 11,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Business-Analyst/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-53319-YF-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Business Analyst"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "10001-1004051566-S",
   "titel": "Projektmanager Vertrieb und Projektmanagement m/w/d",
   "firma": "TeamPower Personaldienstleistungs GmbH",
@@ -1167,7 +1323,7 @@
   "ort": "75172 Pforzheim",
   "entfernung_km": 13,
   "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-14",
+  "eintritt": "2026-11-24",
   "beruf": "Supply-Chain-Manager/in",
   "gehalt": null,
   "befristung": "UNBEFRISTET",
@@ -1241,13 +1397,55 @@
   "erstmals_gesehen": "2026-11-18"
  },
  {
+  "id": "12438-13934637-S",
+  "titel": "Supplier Performance Manager (m/w/d) - Lieferantenqualität & Prozessoptimierung",
+  "firma": "expertum GmbH",
+  "ort": "71254 Ditzingen",
+  "entfernung_km": 18,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-12-01",
+  "beruf": "Supply-Chain-Manager/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12438-13934637-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur",
+   "Supply Chain",
+   "Lean Management"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
+  "id": "11858-SDE-134326-STA-S",
+  "titel": "IT-Consultant (m/w/d)",
+  "firma": "ITventive AG",
+  "ort": "71634 Ludwigsburg, Württemberg",
+  "entfernung_km": 24,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "IT-Berater/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-SDE-134326-STA-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-20"
+ },
+ {
   "id": "12265-484348_JB5297442-S",
   "titel": "Planungsingenieur Produktion und Logistik Automotive (m/w/d)",
   "firma": "Ferchau  GmbH",
   "ort": "70435 Stuttgart",
   "entfernung_km": 26,
   "veroeffentlicht": "2026-11-13",
-  "eintritt": "2026-11-13",
+  "eintritt": "2026-11-23",
   "beruf": "Wirtschaftsingenieur/in",
   "gehalt": "55.000.0–70.000.0 €",
   "befristung": "KEINE_ANGABE",
@@ -1344,45 +1542,25 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
-  "id": "12787-273774091126-S",
-  "titel": "Platform Engineer (DevOps) - Snowflake & KI (w/m/d)",
-  "firma": "dmTECH GmbH",
-  "ort": "76227 Karlsruhe, Baden",
-  "entfernung_km": 29,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-12",
-  "beruf": "DevOps Engineer",
+  "id": "15107-44580138-1123-S",
+  "titel": "IT-Business Consultant (m/w/d)",
+  "firma": "Landesbank Baden-Württemberg ADöR",
+  "ort": "70173 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-24",
+  "eintritt": "2027-02-01",
+  "beruf": "Wirtschaftsinformatiker/in (Hochschule)",
   "gehalt": null,
   "befristung": "UNBEFRISTET",
   "score": 2,
   "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-273774091126-S",
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15107-44580138-1123-S",
   "link_extern": null,
   "suchbegriffe": [
-   "Künstliche Intelligenz Prozesse"
+   "Consultant Digitalisierung",
+   "IT Consultant"
   ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "14087-CDYB1L3YXOMZP960-S",
-  "titel": "PMO - Manager Projektoffice – Schwerpunkt Projektsteuerung (w/m/d) - Stuttgart",
-  "firma": "ACS Services GmbH",
-  "ort": "70191 Stuttgart",
-  "entfernung_km": 29,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Wirtschaftsingenieur/in",
-  "gehalt": "60.000.0–68.000.0 €",
-  "befristung": "UNBEFRISTET",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-CDYB1L3YXOMZP960-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "PMO",
-   "Wirtschaftsingenieur"
-  ],
-  "erstmals_gesehen": "2026-11-16"
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "10001-1004035010-S",
@@ -1426,6 +1604,26 @@
    "IT Consultant"
   ],
   "erstmals_gesehen": "2026-11-18"
+ },
+ {
+  "id": "12288-5009623160-S",
+  "titel": "IT-Business Consultant (m/w/d)",
+  "firma": "LBBW",
+  "ort": "70173 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-24",
+  "beruf": "IT-Berater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5009623160-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "13644-302878-S",
@@ -1547,6 +1745,26 @@
    "IT Consultant"
   ],
   "erstmals_gesehen": "2026-11-18"
+ },
+ {
+  "id": "10001-1004057434-S",
+  "titel": "Consultant (m/w/d) EUDI-Wallet",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004057434-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "10001-1003994242-S",
@@ -1749,6 +1967,26 @@
   "erstmals_gesehen": "2026-11-19"
  },
  {
+  "id": "10001-1004058295-S",
+  "titel": "Consultant Agile Transformation (m/w/d)",
+  "firma": "BearingPoint  GmbH",
+  "ort": "70174 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Berater/in - digitale Transformation",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058295-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
   "id": "13644-313024-S",
   "titel": "Business Analyst Systeme für Kunden- und Partnerdaten (m/w/d)",
   "firma": "Stuttgarter Versicherung",
@@ -1767,6 +2005,26 @@
    "Business Analyst"
   ],
   "erstmals_gesehen": "2026-11-18"
+ },
+ {
+  "id": "12465-1657158-1-S",
+  "titel": "Proposal Manager (w/m/d) für Automation & Protection",
+  "firma": "Siemens AG",
+  "ort": "70173 Stuttgart",
+  "entfernung_km": 30,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-24",
+  "beruf": "Wirtschaftsingenieur/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1657158-1-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "13319-901884/1_7012CS-S",
@@ -1830,6 +2088,26 @@
   "erstmals_gesehen": "2026-11-18"
  },
  {
+  "id": "12908-065239629-S",
+  "titel": "Process Engineer - Engineering Excellence Center (m/f/d)",
+  "firma": "Advantest Europe GmbH",
+  "ort": "71034 Böblingen",
+  "entfernung_km": 31,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Prozessmanager/in - Produktionstechnologie",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-065239629-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Prozessmanager"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
   "id": "12908-065157553-S",
   "titel": "Legal Counsel - Global Supply Chain (m/f/d)",
   "firma": "Advantest Europe GmbH",
@@ -1848,26 +2126,6 @@
    "Supply Chain"
   ],
   "erstmals_gesehen": "2026-11-19"
- },
- {
-  "id": "12288-4996079612-S",
-  "titel": "IT-Consultant (m/w/d)",
-  "firma": "S-Management Services GmbH",
-  "ort": "70565 Stuttgart",
-  "entfernung_km": 32,
-  "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-20",
-  "beruf": "IT-Berater/in",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996079612-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "IT Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-16"
  },
  {
   "id": "11956-2916701794438001-S",
@@ -1936,7 +2194,7 @@
   "ort": "70565 Stuttgart",
   "entfernung_km": 32,
   "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-12",
+  "eintritt": "2026-11-24",
   "beruf": "IT-Compliance-Consultant",
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
@@ -1970,33 +2228,13 @@
   "erstmals_gesehen": "2026-11-19"
  },
  {
-  "id": "12265-486649_JB5293767-S",
-  "titel": "Ingenieur Produkt- und Prozessindustrialisierung (m/w/d)",
-  "firma": "FERCHAU GmbH Niederlassung Stuttgart Mobility",
-  "ort": "70565 Stuttgart",
-  "entfernung_km": 32,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Ingenieur/in - Elektromobilität",
-  "gehalt": "50.000.0–68.500.0 €",
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-486649_JB5293767-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Supply Chain"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "19913-3079521795042801-S",
   "titel": "NTT DATA Deutschland SE: AI Go-to-Market Large Deal Seller (w/m/x)",
   "firma": "NTT DATA Deutschland SE",
   "ort": "76275 Ettlingen",
   "entfernung_km": 33,
   "veroeffentlicht": "2026-11-19",
-  "eintritt": "2026-11-19",
+  "eintritt": "2026-11-23",
   "beruf": "KI-Manager/in",
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
@@ -2018,7 +2256,7 @@
   "ort": "76275 Ettlingen",
   "entfernung_km": 33,
   "veroeffentlicht": "2026-11-19",
-  "eintritt": "2026-11-19",
+  "eintritt": "2026-11-23",
   "beruf": "Cyber-Security-Consultant",
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
@@ -2115,26 +2353,6 @@
   "erstmals_gesehen": "2026-11-18"
  },
  {
-  "id": "14087-XNIXGSO2NZN8ARPF-S",
-  "titel": "Projektmanager Freileitungsbau (w/m/d) | Höchstspannungsleitungen | Stuttgart",
-  "firma": "ACS Services GmbH",
-  "ort": "76133 Karlsruhe, Baden",
-  "entfernung_km": 34,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Ingenieur/in - Energietechnik",
-  "gehalt": "70.000.0–78.000.0 €",
-  "befristung": "UNBEFRISTET",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-XNIXGSO2NZN8ARPF-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Wirtschaftsingenieur"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "12265-522445_JB5302822-S",
   "titel": "IT-Consultant Internet of Things (m/w/d)",
   "firma": "FERCHAU GmbH Niederlassung Heilbronn",
@@ -2176,46 +2394,6 @@
   "erstmals_gesehen": "2026-11-18"
  },
  {
-  "id": "14922-147094-S",
-  "titel": "IT-PMO (Demand & Portfolio) (m/w/d)",
-  "firma": "Witt-Gruppe",
-  "ort": "76135 Karlsruhe, Baden",
-  "entfernung_km": 35,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "IT-Produktkoordinator/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-147094-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "PMO"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "11119-4993702130-S",
-  "titel": "Projektmanager (m/w/d) / Rolloutmanager (m/w/d) – IT-Projektmanagement",
-  "firma": "DEKRA Arbeit GmbH",
-  "ort": "70327 Stuttgart",
-  "entfernung_km": 35,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-17",
-  "beruf": "IT-Projektkoordinator/in",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4993702130-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Release Manager"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "14225-21f3e6c6742e27f3-S",
   "titel": "Wirtschaftsingenieur (m/w/d)",
   "firma": "THOST Projektmanagement GmbH",
@@ -2234,6 +2412,26 @@
    "Wirtschaftsingenieur"
   ],
   "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12265-286394_JB5303963-S",
+  "titel": "Logistikplaner (m/w/d) Automotive",
+  "firma": "Ferchau GmbH Karlsruhe Mobility",
+  "ort": "76135 Karlsruhe, Baden",
+  "entfernung_km": 35,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Betriebswirt/in (Fachschule) - Logistik/Bachelor Professional in Wirtschaft",
+  "gehalt": "50.000.0–64.000.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-286394_JB5303963-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Logistikplaner"
+  ],
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "13644-311402-S",
@@ -2276,13 +2474,35 @@
   "erstmals_gesehen": "2026-11-18"
  },
  {
+  "id": "15086-44591751-1123-S",
+  "titel": "IT PreSales Consultant (w/m/d)​",
+  "firma": "Bechtle AG",
+  "ort": "74172 Neckarsulm",
+  "entfernung_km": 38,
+  "veroeffentlicht": "2026-11-24",
+  "eintritt": "2026-11-24",
+  "beruf": "CRM-Consultant",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44591751-1123-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "ERP Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
   "id": "12288-4996648809-S",
   "titel": "Monteur (m/w/d) Prozessautomatisierung",
   "firma": "YER",
   "ort": "76187 Karlsruhe, Baden",
   "entfernung_km": 38,
   "veroeffentlicht": "2026-11-13",
-  "eintritt": "2026-11-14",
+  "eintritt": "2026-11-24",
   "beruf": "Fachkraft - Automatisierungstechnik",
   "gehalt": null,
   "befristung": "UNBEFRISTET",
@@ -2294,6 +2514,26 @@
    "Prozessautomatisierung"
   ],
   "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "15548-1656642-1-S",
+  "titel": "EY-Parthenon Consultant Strategy (w/m/d)",
+  "firma": "EY Strategy & Transactions GmbH",
+  "ort": "70629 Stuttgart",
+  "entfernung_km": 38,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-24",
+  "beruf": "Betriebswirt/in (Hochschule)",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1656642-1-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "KI Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "15548-1654541-1-S",
@@ -2354,6 +2594,26 @@
    "IT Consultant"
   ],
   "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "10001-1004055213-S",
+  "titel": "Consultant IT-Risk & Compliance (m/w/d)",
+  "firma": "Westhouse Professionals GmbH",
+  "ort": "74172 Neckarsulm",
+  "entfernung_km": 40,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2027-01-01",
+  "beruf": "Wirtschaftsinformatiker/in - IT-Systeme",
+  "gehalt": "70.000.0–75.000.0 €",
+  "befristung": "BEFRISTET",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004055213-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "13644-311409-S",
@@ -2436,6 +2696,46 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "14225-fddf63fd0e40d9e3-S",
+  "titel": "Vertriebsingenieur - Retrofit / Automatisierungstechnik (m/w/d)",
+  "firma": "Syncore Warehouse Integrators",
+  "ort": "74254 Offenau, Württemberg",
+  "entfernung_km": 40,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Wirtschaftsingenieur/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-fddf63fd0e40d9e3-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Wirtschaftsingenieur"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
+  "id": "11858-SDE-124321-STA-S",
+  "titel": "IT Consultant Microsoft Dynamics (m/w/d)",
+  "firma": "Schwarz Digits",
+  "ort": "74177 Bad Friedrichshall",
+  "entfernung_km": 42,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "IT-Berater/in",
+  "gehalt": null,
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": false,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-SDE-124321-STA-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "IT Consultant"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
   "id": "10000-1208638477-S",
   "titel": "Data Secure Consultant (m/w/d)",
   "firma": "EPI-USE Labs GmbH",
@@ -2456,26 +2756,6 @@
    "Inhouse Consultant"
   ],
   "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "13644-307545-S",
-  "titel": "Sales Consultant & Account Manager (m/w/d)",
-  "firma": "XFT",
-  "ort": "69190 Walldorf, Baden",
-  "entfernung_km": 43,
-  "veroeffentlicht": "2026-11-17",
-  "eintritt": "2026-11-18",
-  "beruf": "IT-Projektkoordinator/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-307545-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "IT Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-18"
  },
  {
   "id": "12288-4996075313-S",
@@ -2539,26 +2819,6 @@
   "erstmals_gesehen": "2026-11-18"
  },
  {
-  "id": "12117-YF-51913-YF-S",
-  "titel": "SBU Manager Automotive & Railway (m/w/d)",
-  "firma": "Wieland-Gruppe",
-  "ort": "70806 Kornwestheim",
-  "entfernung_km": 26,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Wirtschaftsingenieur/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 1,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-51913-YF-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Wirtschaftsingenieur"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "10001-1003992608-S",
   "titel": "Stabsstelle Digitales (w/m/d)",
   "firma": "Linden-Museum Stuttgart",
@@ -2575,27 +2835,6 @@
   "link_extern": null,
   "suchbegriffe": [
    "Künstliche Intelligenz Prozesse"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "12265-485155_JB5293690-S",
-  "titel": "Lieferantenmanager (m/w/d) Automotive",
-  "firma": "FERCHAU GmbH Niederlassung Stuttgart Automotive",
-  "ort": "70173 Stuttgart",
-  "entfernung_km": 30,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Ingenieur/in - Maschinenbau",
-  "gehalt": "60.000.0–80.000.0 €",
-  "befristung": "KEINE_ANGABE",
-  "score": 1,
-  "erweitert": false,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-485155_JB5293690-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Wirtschaftsingenieur",
-   "Supply Chain"
   ],
   "erstmals_gesehen": "2026-11-16"
  },
@@ -2646,7 +2885,7 @@
   "ort": "70182 Stuttgart",
   "entfernung_km": 31,
   "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-14",
+  "eintritt": "2026-11-24",
   "beruf": "IT-Testkoordinator/in",
   "gehalt": null,
   "befristung": "UNBEFRISTET",
@@ -2766,8 +3005,8 @@
   "firma": "cbs Corporate Business Solutions",
   "ort": "69115 Heidelberg, Neckar",
   "entfernung_km": 53,
-  "veroeffentlicht": "2026-11-10",
-  "eintritt": "2026-12-10",
+  "veroeffentlicht": "2026-11-24",
+  "eintritt": "2026-12-24",
   "beruf": "IT-Compliance-Consultant",
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
@@ -2844,26 +3083,6 @@
   "erstmals_gesehen": "2026-11-23"
  },
  {
-  "id": "12265-485779_JB5293899-S",
-  "titel": "(Junior) Projektmanager Luft- und Raumfahrt (m/w/d)",
-  "firma": "FERCHAU GmbH Niederlassung Heilbronn",
-  "ort": "74523 Schwäbisch Hall",
-  "entfernung_km": 68,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Projektleiter/in / Projektmanager/in",
-  "gehalt": "50.000.0–70.000.0 €",
-  "befristung": "KEINE_ANGABE",
-  "score": 5,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-485779_JB5293899-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Junior Projektmanager"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "12288-4996082036-S",
   "titel": "IT-Projektmanager-Digitalisierung (m/w/d)",
   "firma": "DIS AG Germany",
@@ -2890,7 +3109,7 @@
   "ort": "72160 Horb am Neckar",
   "entfernung_km": 55,
   "veroeffentlicht": "2026-11-19",
-  "eintritt": "2026-11-20",
+  "eintritt": "2026-11-23",
   "beruf": "Marketingfachkraft/-assistent/in",
   "gehalt": null,
   "befristung": "KEINE_ANGABE",
@@ -3087,6 +3306,49 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "13319-903115/1_7210CS-S",
+  "titel": "WMS / Logistik IT Consultant  (m/w/d)",
+  "firma": "Hays AG",
+  "ort": "68163 Mannheim",
+  "entfernung_km": 64,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "IT-Berater/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-903115/1_7210CS-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Consultant Digitalisierung",
+   "IT Consultant",
+   "Supply Chain"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
+  "id": "14953-44590770-1123-S",
+  "titel": "Junior Cluster Buyer (m/w/d) technischer Einkauf Metallteile",
+  "firma": "Alfred Kärcher SE & Co. KG",
+  "ort": "74423 Obersontheim",
+  "entfernung_km": 77,
+  "veroeffentlicht": "2026-11-24",
+  "eintritt": "2026-11-24",
+  "beruf": "Technische/r Einkäufer/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 3,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14953-44590770-1123-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Junior Consultant",
+   "Consultant Digitalisierung"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
   "id": "12288-4996074623-S",
   "titel": "ERP Inhouse Consultant (m/w/d)",
   "firma": "DIS AG Germany",
@@ -3104,46 +3366,6 @@
   "suchbegriffe": [
    "ERP Consultant",
    "Inhouse Consultant"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "17510-TC1OY67GL7EN19WJ-S",
-  "titel": "Trainee Personalmanagement (m/w/d)",
-  "firma": "IMPACT GmbH WO Flexible Personalsysteme",
-  "ort": "67547 Worms",
-  "entfernung_km": 84,
-  "veroeffentlicht": "2026-11-20",
-  "eintritt": "2026-12-01",
-  "beruf": "Personalberater/in",
-  "gehalt": "33.600.0–36.000.0 €",
-  "befristung": "UNBEFRISTET",
-  "score": 3,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17510-TC1OY67GL7EN19WJ-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Trainee"
-  ],
-  "erstmals_gesehen": "2026-11-21"
- },
- {
-  "id": "12908-065020019-S",
-  "titel": "Trainee Private Banking (m/w/d)",
-  "firma": "Kreissparkasse Ostalb",
-  "ort": "73430 Aalen, Württemberg",
-  "entfernung_km": 91,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Bankkaufmann/-frau",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 3,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-065020019-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Trainee"
   ],
   "erstmals_gesehen": "2026-11-16"
  },
@@ -3314,26 +3536,6 @@
   "erstmals_gesehen": "2026-11-18"
  },
  {
-  "id": "14897-BB-1894551-7878-557-S",
-  "titel": "Prozesskoordinator (m/w/d) Heißbereich",
-  "firma": "Saint-Gobain Isover G+H AG Zentralverwaltung",
-  "ort": "68526 Ladenburg",
-  "entfernung_km": 62,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-18",
-  "beruf": "Prozessmanager/in - Produktionstechnologie",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 2,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14897-BB-1894551-7878-557-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Prozessmanager"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "12117-YF-54291-YF-S",
   "titel": "CRM Project & Process Manager (m/w/d)",
   "firma": "PHOENIX Pharmahandel GmbH & Co KG",
@@ -3450,46 +3652,6 @@
   "link_extern": null,
   "suchbegriffe": [
    "Prozessmanager"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "12362-TR224554_1340CS-S",
-  "titel": "Projektmanager für anspruchsvolle IT-Projekte (m/w/d)",
-  "firma": "Brunel GmbH NL Mannheim",
-  "ort": "Mannheim",
-  "entfernung_km": 66,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Betriebswirt/in (Hochschule) - Marketing",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 2,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR224554_1340CS-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Projektmanager Digitalisierung"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "12362-TR250220_1342CS-S",
-  "titel": "Materialdisponent / Supply Chain Disponent (w/m/d)",
-  "firma": "Brunel GmbH NL Mannheim",
-  "ort": "Mannheim",
-  "entfernung_km": 66,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Fachkraft - Logistik/Materialwirtschaft",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 2,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR250220_1342CS-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Supply Chain"
   ],
   "erstmals_gesehen": "2026-11-16"
  },
@@ -3635,46 +3797,6 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
-  "id": "14225-44b4184d6dd89a71-S",
-  "titel": "Wirtschaftsingenieur - Vertriebsmitarbeiter (m/w/d)",
-  "firma": "Antago GmbH",
-  "ort": "64625 Bensheim",
-  "entfernung_km": 83,
-  "veroeffentlicht": "2026-11-12",
-  "eintritt": "2026-11-20",
-  "beruf": "Kaufmann/-frau - E-Commerce",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-44b4184d6dd89a71-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Wirtschaftsingenieur"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
-  "id": "12117-YF-53249-YF-S",
-  "titel": "Projektmanager - (Wirtschafts)Informatiker, (Wirtschafts)Ingenieur - Energiewirtschaft, (m/w/d)",
-  "firma": "Elektrizitätswerk Mittelbaden AG & Co. KG",
-  "ort": "77652 Offenburg",
-  "entfernung_km": 83,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Projektleiter/in / Projektmanager/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-53249-YF-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Wirtschaftsingenieur"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "10001-1004031462-S",
   "titel": "Specialist Supply Chain Packaging (m/w/d)",
   "firma": "Röchling Automotive Germany SE & Co. KG",
@@ -3716,27 +3838,6 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
-  "id": "13644-313205-S",
-  "titel": "Business Consultant mit Schwerpunkt Salesforce (m/w/d)",
-  "firma": "MEIKO",
-  "ort": "77656 Offenburg",
-  "entfernung_km": 87,
-  "veroeffentlicht": "2026-11-17",
-  "eintritt": "2026-11-18",
-  "beruf": "IT-Berater/in",
-  "gehalt": null,
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-313205-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "IT Consultant",
-   "Business Analyst"
-  ],
-  "erstmals_gesehen": "2026-11-18"
- },
- {
   "id": "13644-302180-S",
   "titel": "Business Analyst CRM (m/w/d)",
   "firma": "MARKANT Deutschland",
@@ -3753,28 +3854,6 @@
   "link_extern": null,
   "suchbegriffe": [
    "Business Analyst"
-  ],
-  "erstmals_gesehen": "2026-11-18"
- },
- {
-  "id": "13319-902384/1_6861CS-S",
-  "titel": "Salesforce Consultant (m/w/d)",
-  "firma": "Hays AG",
-  "ort": "89143 Blaubeuren",
-  "entfernung_km": 91,
-  "veroeffentlicht": "2026-11-17",
-  "eintritt": "2026-11-17",
-  "beruf": "IT-Berater/in",
-  "gehalt": null,
-  "befristung": "UNBEFRISTET",
-  "score": 2,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-902384/1_6861CS-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Consultant Digitalisierung",
-   "IT Consultant",
-   "ERP Consultant"
   ],
   "erstmals_gesehen": "2026-11-18"
  },
@@ -3819,6 +3898,28 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
+  "id": "12265-516355_JB5304067-S",
+  "titel": "Product Release & Market Introduction Manager (m/w/d)",
+  "firma": "FERCHAU GmbH Niederlassung Heidenheim",
+  "ort": "73447 Oberkochen",
+  "entfernung_km": 93,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2026-11-23",
+  "beruf": "Wirtschaftsingenieur/in",
+  "gehalt": "45.000.0–55.000.0 €",
+  "befristung": "KEINE_ANGABE",
+  "score": 2,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-516355_JB5304067-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Release Manager",
+   "Wirtschaftsingenieur",
+   "Lean Management"
+  ],
+  "erstmals_gesehen": "2026-11-24"
+ },
+ {
   "id": "12265-508933_JB5300306-S",
   "titel": "Koordinator Lieferantenqualität & Reklamationsmanagement - Supply Chain (m/w/d)",
   "firma": "FERCHAU GmbH Niederlassung Heidenheim",
@@ -3837,26 +3938,6 @@
    "Supply Chain"
   ],
   "erstmals_gesehen": "2026-11-18"
- },
- {
-  "id": "12265-524056_JB5294008-S",
-  "titel": "Sourcing Projektmanager (m/w/d)",
-  "firma": "FERCHAU GmbH Niederlassung Heidenheim",
-  "ort": "73447 Oberkochen",
-  "entfernung_km": 94,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Projektleiter/in / Projektmanager/in",
-  "gehalt": "70.000.0–80.000.0 €",
-  "befristung": "KEINE_ANGABE",
-  "score": 2,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-524056_JB5294008-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Supply Chain"
-  ],
-  "erstmals_gesehen": "2026-11-16"
  },
  {
   "id": "12288-4996059349-S",
@@ -4021,29 +4102,6 @@
   "erstmals_gesehen": "2026-11-16"
  },
  {
-  "id": "12265-484834_JB5293667-S",
-  "titel": "Logistikplaner (m/w/d)",
-  "firma": "FERCHAU GmbH Niederlassung Mannheim",
-  "ort": "68163 Mannheim",
-  "entfernung_km": 63,
-  "veroeffentlicht": "2026-11-09",
-  "eintritt": "2026-11-09",
-  "beruf": "Logistiker/in",
-  "gehalt": "45.000.0–70.000.0 €",
-  "befristung": "KEINE_ANGABE",
-  "score": 1,
-  "erweitert": true,
-  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-484834_JB5293667-S",
-  "link_extern": null,
-  "suchbegriffe": [
-   "Wirtschaftsingenieur",
-   "Supply Chain",
-   "Logistikplaner",
-   "Lean Management"
-  ],
-  "erstmals_gesehen": "2026-11-16"
- },
- {
   "id": "12288-4996060524-S",
   "titel": "Logistikplaner (m/w/d)",
   "firma": "YER",
@@ -4122,6 +4180,27 @@
    "ERP Consultant"
   ],
   "erstmals_gesehen": "2026-11-16"
+ },
+ {
+  "id": "12634-BB-647464-7878-9361-S",
+  "titel": "Spezialist KPI & Datenanalyse - Automotive (m/w/d)",
+  "firma": "Akkodis Germany Tech Experts GmbH",
+  "ort": "68305 Mannheim",
+  "entfernung_km": 70,
+  "veroeffentlicht": "2026-11-23",
+  "eintritt": "2027-02-01",
+  "beruf": "Business-Analyst/in",
+  "gehalt": null,
+  "befristung": "UNBEFRISTET",
+  "score": 1,
+  "erweitert": true,
+  "link_jobboerse": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12634-BB-647464-7878-9361-S",
+  "link_extern": null,
+  "suchbegriffe": [
+   "Power Automate",
+   "Business Analyst"
+  ],
+  "erstmals_gesehen": "2026-11-24"
  },
  {
   "id": "10000-1208623037-S",
