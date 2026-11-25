@@ -14,7 +14,7 @@ Suchprofil ändern: `config.yaml` bearbeiten und committen.
 Tech: Python, requests, GitHub Actions, Bundesagentur-für-Arbeit-Jobsuche-API, Claude.
 
 <!-- JOBS:START -->
-_Stand 2026-11-24: 212 passende Stellen, 30 neu seit dem letzten Lauf._
+_Stand 2026-11-25: 208 passende Stellen, 12 neu seit dem letzten Lauf._
 
 ## Top-Treffer
 
@@ -30,6 +30,7 @@ _Stand 2026-11-24: 212 passende Stellen, 30 neu seit dem letzten Lauf._
 | 6 | [(Junior) Consultant Digitale Lösungen (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058261-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
 | 6 | [(Junior) Consultant Digital Transformation Banking (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058306-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
 | 6 | [(Junior) Consultant Digital Marketing, Sales & Customer Services (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058264-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
+| 6 | [Junior Projektmanager (m/w/d) Automotive](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-348796_JB5305069-S) | Ferchau GmbH Karlsruhe Mobility | 76135 Karlsruhe, Baden | 35 | 2026-11-24 |
 | 6 | [IT Automation Engineer (m/w/d) - Schwerpunkt Prozessautomatisierung, KI & M365](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996060662-S) | Gustav Baehr GmbH | 71332 Waiblingen, Rems | 36 | 2026-11-12 |
 | 5 | [Junior Consultant (m/w/d) e-Government / e-Akte](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004048015-S) | ANG GmbH | 75172 Pforzheim | 13 | 2026-11-20 |
 | 5 | [Junior Technical Consultant PDM/PLM (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-154872-S) | Inneo | 71277 Rutesheim | 16 | 2026-11-17 |
@@ -71,7 +72,7 @@ _Stand 2026-11-24: 212 passende Stellen, 30 neu seit dem letzten Lauf._
 | 4 | [DACH Consultant Digitized Processes - SCM & Logistics Operations - Ettlingen](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-314942-S) | PROMATIS software | 76275 Ettlingen | 33 | 2026-11-21 |
 | 4 | [AI Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15307-1594-1804056-0-S) | MLP Finanzberatung SE | 69168 Wiesloch | 41 | 2026-11-16 |
 | 3 | [(Junior) Projektleiter Elektrotechnik (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-326077_JB5303882-S) | FERCHAU GmbH Niederlassung Heilbronn | 74321 Bietigheim-Bissingen | 20 | 2026-11-23 |
-| 3 | [Junior CRM / Marketing Manager (HubSpot) (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12781-16425445-KAL-S) | Nussbaum Medien | 71263 Weil der Stadt | 21 | 2026-11-10 |
+| 3 | [Referent der Geschäftsführung Technologie und Digitalisierung (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-315143-S) | SCHUNK | 74348 Lauffen am Neckar | 27 | 2026-11-25 |
 | 3 | [Consultant (w/m/d) Digital Workplace & Intranet](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-311175-S) | Campana & Schott | 70173 Stuttgart | 30 | 2026-11-17 |
 | 3 | [Prozessmanager Bau & Lean Construction (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-286815-S) | MPS Bauplanung | 70173 Stuttgart | 30 | 2026-11-23 |
 | 3 | [Digitalisierungsmanager/in (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-54374-YF-S) | Stadt Remseck am Neckar | 71686 Remseck am Neckar | 31 | 2026-11-16 |
@@ -81,5 +82,4 @@ _Stand 2026-11-24: 212 passende Stellen, 30 neu seit dem letzten Lauf._
 | 3 | [Software Developer Dynamics 365 CRM & Power Platform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-290826-S) | Objektkultur Software | 76133 Karlsruhe, Baden | 34 | 2026-11-17 |
 | 3 | [Trainee Strategisches Management (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/16506-0068871420-S) | Omexom Distribution Management GmbH | 70736 Fellbach, Württemberg | 34 | 2026-11-20 |
 | 3 | [Trainee im Versicherungsmanagement am Standort Karlsruhe (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15719-44570091-1112-S) | Allianz Deutschland AG | 76135 Karlsruhe, Baden | 35 | 2026-11-13 |
-| 3 | [Trainee Filialleiter/Shop Manager (m/w/d), Teilzeit, Wiesloch](https://www.arbeitsagentur.de/jobsuche/jobdetail/11937-35700_60034-1-S) | Tchibo GmbH Abteilung HRO/HRO-P | 69168 Wiesloch | 40 | 2026-11-15 |
 <!-- JOBS:END -->
