@@ -14,7 +14,7 @@ Suchprofil ändern: `config.yaml` bearbeiten und committen.
 Tech: Python, requests, GitHub Actions, Bundesagentur-für-Arbeit-Jobsuche-API, Claude.
 
 <!-- JOBS:START -->
-_Stand 2026-11-26: 211 passende Stellen, 11 neu seit dem letzten Lauf._
+_Stand 2026-11-27: 195 passende Stellen, 12 neu seit dem letzten Lauf._
 
 ## Top-Treffer
 
@@ -23,7 +23,6 @@ _Stand 2026-11-26: 211 passende Stellen, 11 neu seit dem letzten Lauf._
 | Score | Stelle | Firma | Ort | km | Veröffentlicht |
 |---|---|---|---|---|---|
 | 10 | [(Junior) Consultant Digitalisierung & Prozesse im Public Sector (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058242-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
-| 8 | [#AHS2601 / Absolvent*in / Junior Projektmanager*in (m/w/d) in der Projektsteuerung](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996081557-S) | THOST Projektmanagement GmbH | 76135 Karlsruhe, Baden | 35 | 2026-11-12 |
 | 7 | [Junior Consultant - Projektmgmt / Prozesse / Software (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5008043566-S) | Workwise GmbH | 70192 Stuttgart | 29 | 2026-11-23 |
 | 7 | [(Junior) Consultant Generative AI (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058235-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
 | 7 | [(Junior) Consultant Supply Chain Management (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058318-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
@@ -31,8 +30,6 @@ _Stand 2026-11-26: 211 passende Stellen, 11 neu seit dem letzten Lauf._
 | 6 | [(Junior) Consultant Digital Transformation Banking (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058306-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
 | 6 | [(Junior) Consultant Digital Marketing, Sales & Customer Services (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058264-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
 | 6 | [Junior Projektmanager (m/w/d) Automotive](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-348796_JB5305069-S) | Ferchau GmbH Karlsruhe Mobility | 76135 Karlsruhe, Baden | 35 | 2026-11-24 |
-| 6 | [IT Automation Engineer (m/w/d) - Schwerpunkt Prozessautomatisierung, KI & M365](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996060662-S) | Gustav Baehr GmbH | 71332 Waiblingen, Rems | 36 | 2026-11-12 |
-| 5 | [Junior Consultant (m/w/d) e-Government / e-Akte](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004048015-S) | ANG GmbH | 75172 Pforzheim | 13 | 2026-11-20 |
 | 5 | [Junior Technical Consultant PDM/PLM (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-154872-S) | Inneo | 71277 Rutesheim | 16 | 2026-11-17 |
 | 5 | [Projektmanager "Digitalisierung & IoT" (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004025506-S) | NIVUS GmbH | 75031 Eppingen | 18 | 2026-11-17 |
 | 5 | [IT Consultant (m/w/d) Software Testing / Test Automation](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-307616-S) | puntus | 71696 Möglingen, Kreis Ludwigsburg, Württ. | 22 | 2026-11-17 |
@@ -40,9 +37,9 @@ _Stand 2026-11-26: 211 passende Stellen, 11 neu seit dem letzten Lauf._
 | 5 | [Junior Supply Chain Experte (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-274664251126-S) | dm-drogerie markt GmbH + Co.KG | 76227 Karlsruhe, Baden | 29 | 2026-11-25 |
 | 5 | [Junior IT Consultant (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-6939-S) | dydocon | 70173 Stuttgart | 30 | 2026-11-17 |
 | 5 | [(Junior) Personalberater / Recruitment Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5011396863-S) | Harvey Nash GmbH | 70174 Stuttgart | 30 | 2026-11-26 |
+| 5 | [(Junior) Cloud Consultant Databricks (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-314207-S) | Infomotion GmbH | 70173 Stuttgart | 30 | 2026-11-17 |
 | 5 | [(Junior) Consultant Datenmanagement / Facility Management (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058292-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
 | 5 | [(Junior) Consultant IT Service Management (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004057406-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
-| 5 | [(Junior) Cloud Consultant Databricks (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-314207-S) | Infomotion GmbH | 70173 Stuttgart | 30 | 2026-11-17 |
 | 5 | [Junior Consultant (m/w/d) Bereich Asset- und Risikomanag ...](https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-168234-S) | Preyer GmbH | Stuttgart | 30 | 2026-11-20 |
 | 5 | [(Junior) Consultant / Anti-Financial Crime & Compliance (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004058316-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
 | 5 | [(Junior) Consultant Microsoft / Modern Work & Cloud (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004057313-S) | BearingPoint  GmbH | 70174 Stuttgart | 30 | 2026-11-23 |
@@ -61,7 +58,6 @@ _Stand 2026-11-26: 211 passende Stellen, 11 neu seit dem letzten Lauf._
 | 5 | [Junior Financial Consultant - Kundenaufbau / Finanzkonzepte (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5009123673-S) | MLP Finanzberatung SE | 69168 Wiesloch | 40 | 2026-11-23 |
 | 5 | [Junior Cybersecurity Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-310177-S) | BRANDMAUER IT | 76756 Bellheim | 49 | 2026-11-17 |
 | 5 | [IT-Projektmanager - Digitalisierung (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5009148322-S) | DIS AG Germany | 69124 Heidelberg, Neckar | 50 | 2026-11-23 |
-| 4 | [KI-Prozessberater (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004047973-S) | ANG GmbH | 75172 Pforzheim | 13 | 2026-11-20 |
 | 4 | [Betriebswirt, Wirtschaftsingenieur - Prozessmanagement (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-b7266128c26fad85-S) | Müller - Die lila Logistik Service GmbH | 71691 Freiberg am Neckar | 27 | 2026-11-25 |
 | 4 | [Entwickler (m/w/d) Robotic Process Automation](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-5001700734-S) | Serviscope AG | 76227 Karlsruhe, Baden | 28 | 2026-11-17 |
 | 4 | [IT-Consultant Supply Chain Forecasting (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-274322181126-S) | dmTECH GmbH | 76227 Karlsruhe, Baden | 29 | 2026-11-19 |
@@ -70,7 +66,6 @@ _Stand 2026-11-26: 211 passende Stellen, 11 neu seit dem letzten Lauf._
 | 4 | [AI Software Engineer and Consultant (w/d/m)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-310601-S) | codecentric | 70173 Stuttgart | 30 | 2026-11-17 |
 | 4 | [Consultant (m/w/d) Microsoft Dynamics 365 FSCM (Schwerpunkt Supply Chain Management)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-307153-S) | MODUS Consult | 70173 Stuttgart | 30 | 2026-11-17 |
 | 4 | [Data & AI Business Analyst Lieferantenregress (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12634-BB-647173-7878-1953-S) | Akkodis Germany Tech Experts GmbH | 70173 Stuttgart | 30 | 2026-11-13 |
-| 4 | [Junior Testmanager (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-295787-S) | Sogeti – Part of Capgemini | 70173 Stuttgart | 30 | 2026-11-17 |
 | 4 | [DACH Consultant Digitized Processes - SCM & Logistics Operations - Ettlingen](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-314942-S) | PROMATIS software | 76275 Ettlingen | 33 | 2026-11-21 |
 | 4 | [AI Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15307-1594-1804056-0-S) | MLP Finanzberatung SE | 69168 Wiesloch | 41 | 2026-11-16 |
 | 3 | [(Junior) Projektleiter Elektrotechnik (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-326077_JB5303882-S) | FERCHAU GmbH Niederlassung Heilbronn | 74321 Bietigheim-Bissingen | 20 | 2026-11-23 |
@@ -79,7 +74,12 @@ _Stand 2026-11-26: 211 passende Stellen, 11 neu seit dem letzten Lauf._
 | 3 | [Consultant (w/m/d) Digital Workplace & Intranet](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-311175-S) | Campana & Schott | 70173 Stuttgart | 30 | 2026-11-17 |
 | 3 | [Prozessmanager Bau & Lean Construction (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13645-286815-S) | MPS Bauplanung | 70173 Stuttgart | 30 | 2026-11-23 |
 | 3 | [Digitalisierungsmanager/in (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-54374-YF-S) | Stadt Remseck am Neckar | 71686 Remseck am Neckar | 31 | 2026-11-16 |
+| 3 | [Trainee zur Büroleitung (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004077205-S) | Mömax Deutschland GmbH & Co. KG | 76139 Karlsruhe, Baden | 31 | 2026-11-26 |
 | 3 | [Digitalisierungsmanager/in (W/M/D)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004029262-S) | Stadt Remseck am Neckar | 71686 Remseck am Neckar | 32 | 2026-11-17 |
 | 3 | [Logistikplaner (m/w/d) Prozesssteuerung](https://www.arbeitsagentur.de/jobsuche/jobdetail/15006-k40180.6292-S) | prognum Automotive GmbH | 76131 Karlsruhe, Baden | 32 | 2026-11-16 |
 | 3 | [IT-Infrastructure Consultant Architekt Digitale Energiewende (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004039398-S) | Schleupen SE | 76275 Ettlingen | 34 | 2026-11-19 |
+| 3 | [Software Developer Dynamics 365 CRM & Power Platform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-290826-S) | Objektkultur Software | 76133 Karlsruhe, Baden | 34 | 2026-11-17 |
+| 3 | [Trainee Strategisches Management (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/16506-0068871420-S) | Omexom Distribution Management GmbH | 70736 Fellbach, Württemberg | 34 | 2026-11-20 |
+| 3 | [Trainee im Versicherungsmanagement am Standort Karlsruhe (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15719-44570091-1112-S) | Allianz Deutschland AG | 76135 Karlsruhe, Baden | 35 | 2026-11-13 |
+| 3 | [Supply Chain Manager (m/w/d) Automotive](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-348838_JB5305072-S) | Ferchau GmbH Karlsruhe Mobility | 76135 Karlsruhe, Baden | 35 | 2026-11-24 |
 <!-- JOBS:END -->
